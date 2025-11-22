@@ -1,0 +1,1001 @@
+client_number,customer_age,gender,dependents,education_level,marital_status,state,zipcode,car_owner,house_owner,personal_loan,contact,customer_job,income_of_customer,customer_satisfaction_score
+C100001,35,Female,4,Doctorate,Widow,Jeddah,11352,No,Yes,No,Unknown,Private Employee,48013,2
+C100002,65,Female,3,Doctorate,Divorced,Jeddah,22488,Yes,Yes,No,Cellular,Private Employee,26219,5
+C100003,62,Male,0,High School,Widow,Mecca,61733,No,Yes,Yes,Unknown,Self-employed,20058,2
+C100004,52,Female,2,Graduated,Married,Jeddah,51591,No,Yes,No,Cellular,Government Employee,5894,2
+C100005,51,Female,2,Graduated,Divorced,Mecca,90338,No,No,No,Cellular,Government Employee,35196,2
+C100006,55,Female,0,Uneducated,Married,Riyadh,40128,Yes,Yes,No,Telephone,Self-employed,49265,4
+C100007,47,Male,3,Unknown,Widow,Tabuk,83512,No,No,No,Cellular,Unemployed,12702,1
+C100008,42,Male,1,High School,Married,Dammam,76681,No,Yes,Yes,Unknown,Unemployed,40407,2
+C100009,46,Male,1,Graduated,Single,Tabuk,13402,No,Yes,No,Telephone,Student,9951,3
+C100010,29,Male,0,Graduated,Widow,Jazan,92359,No,Yes,No,Cellular,Freelancer,43787,4
+C100011,40,Male,1,Unknown,Divorced,Tabuk,17279,Yes,No,Yes,Telephone,Government Employee,14666,2
+C100012,45,Male,0,Uneducated,Married,Taif,62742,No,Yes,Yes,Telephone,Private Employee,31335,3
+C100013,63,Male,2,Doctorate,Single,Tabuk,77194,Yes,No,No,Telephone,Private Employee,20595,5
+C100014,58,Female,0,Graduated,Divorced,Dammam,66899,No,Yes,Yes,Unknown,Government Employee,33377,2
+C100015,61,Male,3,Post-Graduate,Single,Mecca,71370,No,Yes,No,Telephone,Self-employed,11374,3
+C100016,35,Female,2,Post-Graduate,Single,Abha,20031,Yes,Yes,No,Telephone,Businessman,33451,5
+C100017,36,Female,2,Post-Graduate,Single,Abha,12132,Yes,No,Yes,Cellular,Unemployed,28752,1
+C100018,25,Female,2,High School,Widow,Jazan,91764,No,No,Yes,Cellular,Self-employed,8126,5
+C100019,36,Male,3,Post-Graduate,Single,Riyadh,61764,Yes,Yes,Yes,Unknown,Private Employee,33157,4
+C100020,62,Female,2,Post-Graduate,Divorced,Taif,49669,Yes,Yes,Yes,Cellular,Self-employed,10334,1
+C100021,64,Male,0,Uneducated,Widow,Dammam,95162,Yes,No,Yes,Cellular,Government Employee,33371,2
+C100022,50,Female,0,Unknown,Married,Dammam,68361,No,No,Yes,Telephone,Student,18900,2
+C100023,38,Female,0,High School,Single,Jeddah,92629,No,No,No,Unknown,Student,42048,5
+C100024,38,Male,3,Graduated,Widow,Abha,87468,No,Yes,Yes,Unknown,Businessman,30656,5
+C100025,40,Male,2,Doctorate,Widow,Jazan,25327,No,No,No,Unknown,Private Employee,4363,2
+C100026,38,Male,3,High School,Widow,Medina,76536,Yes,No,No,Cellular,Government Employee,49621,4
+C100027,46,Female,3,Uneducated,Married,Mecca,21297,No,Yes,Yes,Cellular,Self-employed,42698,4
+C100028,26,Female,3,High School,Married,Medina,82984,Yes,Yes,No,Telephone,Government Employee,47363,2
+C100029,31,Male,0,High School,Widow,Jeddah,90945,Yes,Yes,Yes,Telephone,Government Employee,25303,3
+C100030,22,Female,1,Doctorate,Single,Riyadh,67386,No,Yes,Yes,Unknown,Student,9676,5
+C100031,22,Male,1,Doctorate,Single,Medina,57400,Yes,No,No,Unknown,Private Employee,9507,2
+C100032,61,Female,2,Uneducated,Single,Medina,67554,No,Yes,Yes,Telephone,Government Employee,21792,5
+C100033,30,Male,2,High School,Widow,Tabuk,92502,Yes,Yes,No,Cellular,Self-employed,31103,4
+C100034,46,Female,4,Doctorate,Divorced,Riyadh,68009,Yes,Yes,Yes,Cellular,Government Employee,23631,4
+C100035,30,Female,0,Graduated,Single,Dammam,85308,Yes,No,No,Telephone,Freelancer,48926,5
+C100036,39,Female,2,Unknown,Divorced,Abha,90006,Yes,No,No,Unknown,Self-employed,38679,5
+C100037,59,Female,2,Doctorate,Widow,Medina,49522,Yes,Yes,No,Telephone,Freelancer,11257,5
+C100038,54,Female,1,Unknown,Divorced,Abha,54657,Yes,Yes,Yes,Unknown,Student,19953,2
+C100039,39,Female,4,Unknown,Single,Tabuk,44046,No,Yes,Yes,Unknown,Businessman,32408,3
+C100040,56,Male,3,High School,Married,Abha,88059,Yes,No,No,Telephone,Freelancer,49848,5
+C100041,63,Male,3,Post-Graduate,Married,Jeddah,52971,Yes,No,No,Cellular,Self-employed,49638,4
+C100042,46,Male,0,Unknown,Widow,Dammam,72423,Yes,No,Yes,Telephone,Freelancer,37488,4
+C100043,57,Female,2,Post-Graduate,Widow,Taif,67682,No,No,Yes,Cellular,Student,11331,4
+C100044,65,Female,1,Doctorate,Single,Medina,69694,No,Yes,Yes,Unknown,Government Employee,10783,5
+C100045,46,Male,0,High School,Divorced,Riyadh,78521,Yes,Yes,No,Telephone,Government Employee,22874,3
+C100046,51,Male,1,Uneducated,Widow,Riyadh,49998,No,Yes,Yes,Unknown,Private Employee,3136,1
+C100047,55,Female,0,Unknown,Widow,Jazan,85112,No,No,No,Telephone,Private Employee,42695,2
+C100048,28,Female,3,Doctorate,Widow,Dammam,52626,Yes,No,No,Cellular,Private Employee,25216,5
+C100049,22,Female,2,Doctorate,Single,Dammam,13251,No,Yes,Yes,Cellular,Student,38509,5
+C100050,23,Male,3,Post-Graduate,Single,Jeddah,96278,Yes,Yes,No,Cellular,Self-employed,49243,5
+C100051,48,Male,4,Post-Graduate,Divorced,Taif,87187,Yes,No,Yes,Telephone,Private Employee,14829,4
+C100052,21,Female,3,High School,Single,Jeddah,23019,Yes,No,Yes,Cellular,Government Employee,8873,2
+C100053,39,Female,1,Unknown,Divorced,Dammam,13561,Yes,No,No,Cellular,Government Employee,12336,4
+C100054,40,Female,3,Unknown,Single,Medina,41407,Yes,No,No,Cellular,Government Employee,6973,3
+C100055,49,Female,0,Graduated,Single,Taif,93039,Yes,Yes,No,Unknown,Student,47243,1
+C100056,35,Male,2,Post-Graduate,Widow,Jazan,20998,Yes,Yes,No,Unknown,Self-employed,19066,5
+C100057,47,Female,0,Unknown,Widow,Mecca,95597,Yes,Yes,Yes,Telephone,Government Employee,42181,3
+C100058,63,Female,2,Doctorate,Married,Abha,46872,Yes,Yes,Yes,Telephone,Businessman,28906,1
+C100059,28,Female,3,Uneducated,Divorced,Tabuk,93252,No,No,No,Cellular,Freelancer,24078,3
+C100060,33,Female,4,High School,Single,Dammam,94730,Yes,No,Yes,Cellular,Freelancer,14372,4
+C100061,55,Female,3,Post-Graduate,Single,Jeddah,80601,Yes,No,Yes,Telephone,Unemployed,27666,5
+C100062,42,Female,1,Doctorate,Single,Jeddah,70646,No,Yes,No,Cellular,Self-employed,4296,3
+C100063,63,Female,1,Unknown,Divorced,Medina,40704,No,No,Yes,Telephone,Private Employee,49140,5
+C100064,33,Male,1,Doctorate,Widow,Jeddah,46352,No,Yes,Yes,Unknown,Freelancer,40074,5
+C100065,56,Male,0,Post-Graduate,Married,Jeddah,26702,No,Yes,No,Cellular,Unemployed,47432,1
+C100066,64,Female,4,Graduated,Single,Taif,94012,Yes,No,No,Telephone,Government Employee,10976,5
+C100067,49,Female,2,Post-Graduate,Single,Medina,16155,No,No,No,Telephone,Businessman,28680,2
+C100068,41,Male,4,Unknown,Married,Taif,19757,Yes,Yes,Yes,Telephone,Government Employee,7118,1
+C100069,21,Female,3,Unknown,Divorced,Mecca,42394,Yes,No,Yes,Telephone,Unemployed,6567,3
+C100070,53,Male,0,Post-Graduate,Widow,Jeddah,91965,No,Yes,Yes,Cellular,Businessman,27732,3
+C100071,64,Male,1,Unknown,Widow,Riyadh,49514,No,Yes,Yes,Unknown,Businessman,39651,1
+C100072,38,Female,3,Unknown,Widow,Medina,88587,Yes,No,No,Telephone,Unemployed,31056,5
+C100073,59,Male,2,Doctorate,Single,Jazan,77792,No,Yes,Yes,Cellular,Businessman,42005,1
+C100074,57,Male,4,Uneducated,Divorced,Tabuk,65182,No,No,Yes,Cellular,Self-employed,5888,1
+C100075,28,Female,4,Graduated,Divorced,Mecca,86502,Yes,Yes,No,Telephone,Student,25472,3
+C100076,43,Male,4,Post-Graduate,Married,Riyadh,41114,Yes,No,No,Cellular,Self-employed,44979,2
+C100077,24,Female,1,Doctorate,Widow,Jazan,88612,No,No,No,Telephone,Government Employee,13635,1
+C100078,49,Male,3,Uneducated,Single,Medina,40182,No,Yes,Yes,Telephone,Freelancer,24726,4
+C100079,33,Female,1,Unknown,Divorced,Riyadh,19664,No,Yes,Yes,Cellular,Government Employee,31862,2
+C100080,60,Female,0,Unknown,Married,Medina,47237,Yes,Yes,No,Unknown,Self-employed,25270,5
+C100081,35,Male,1,Unknown,Married,Mecca,23263,Yes,Yes,No,Unknown,Unemployed,10272,3
+C100082,33,Female,3,Uneducated,Divorced,Tabuk,96626,Yes,No,Yes,Cellular,Self-employed,11571,2
+C100083,32,Female,2,High School,Widow,Medina,16054,Yes,No,Yes,Telephone,Self-employed,6490,3
+C100084,28,Female,1,Doctorate,Single,Jazan,96966,Yes,Yes,No,Unknown,Unemployed,36368,3
+C100085,51,Female,1,High School,Divorced,Abha,73346,No,No,No,Unknown,Private Employee,44818,5
+C100086,61,Male,1,Uneducated,Married,Jazan,40721,No,Yes,No,Telephone,Private Employee,40445,2
+C100087,43,Female,4,Unknown,Married,Jeddah,48672,No,No,Yes,Unknown,Businessman,33490,5
+C100088,59,Female,3,Graduated,Widow,Taif,63602,No,No,No,Telephone,Private Employee,4619,2
+C100089,48,Male,2,Doctorate,Single,Tabuk,20802,No,Yes,No,Cellular,Businessman,10771,1
+C100090,43,Male,4,Uneducated,Divorced,Medina,98487,No,No,No,Unknown,Unemployed,47796,3
+C100091,32,Male,4,High School,Single,Mecca,46942,No,No,No,Unknown,Unemployed,45946,1
+C100092,50,Male,3,Uneducated,Married,Medina,72185,Yes,No,No,Telephone,Unemployed,8627,3
+C100093,32,Female,3,Uneducated,Widow,Jazan,83196,Yes,No,Yes,Unknown,Unemployed,11411,3
+C100094,20,Female,2,High School,Married,Taif,65799,No,No,No,Unknown,Businessman,40196,1
+C100095,28,Male,2,Post-Graduate,Widow,Taif,36765,No,Yes,No,Cellular,Private Employee,10119,3
+C100096,56,Female,2,Unknown,Married,Jeddah,98458,Yes,Yes,No,Cellular,Self-employed,16041,1
+C100097,44,Female,1,Uneducated,Divorced,Abha,19172,No,Yes,No,Unknown,Businessman,14260,3
+C100098,46,Female,1,Unknown,Married,Abha,64842,No,Yes,No,Cellular,Self-employed,16479,3
+C100099,47,Female,1,Post-Graduate,Divorced,Medina,75860,No,No,Yes,Cellular,Self-employed,32211,1
+C100100,45,Male,4,High School,Widow,Jazan,70646,Yes,Yes,No,Unknown,Private Employee,25726,3
+C100101,45,Male,3,Uneducated,Married,Taif,70008,No,Yes,Yes,Telephone,Freelancer,5861,2
+C100102,30,Female,4,High School,Single,Medina,74682,No,Yes,No,Cellular,Unemployed,9895,5
+C100103,40,Female,3,Uneducated,Divorced,Medina,76330,Yes,No,Yes,Cellular,Freelancer,48513,4
+C100104,44,Female,3,Uneducated,Widow,Riyadh,11407,No,Yes,Yes,Telephone,Freelancer,33424,4
+C100105,49,Male,0,Post-Graduate,Married,Jazan,28383,No,No,Yes,Cellular,Unemployed,4183,5
+C100106,26,Male,2,Unknown,Widow,Dammam,20169,Yes,No,Yes,Telephone,Government Employee,14661,2
+C100107,65,Male,4,Uneducated,Widow,Riyadh,93203,Yes,No,No,Telephone,Businessman,42203,1
+C100108,23,Female,1,Uneducated,Divorced,Medina,36212,Yes,Yes,No,Cellular,Businessman,25093,2
+C100109,63,Male,1,Unknown,Married,Dammam,15768,No,Yes,No,Telephone,Student,44077,2
+C100110,59,Male,4,Graduated,Widow,Jeddah,40462,Yes,Yes,No,Telephone,Self-employed,3982,4
+C100111,61,Female,0,Graduated,Married,Jazan,38848,Yes,No,No,Cellular,Businessman,17323,4
+C100112,39,Female,0,Doctorate,Married,Mecca,22418,No,No,Yes,Telephone,Self-employed,44638,3
+C100113,62,Female,0,High School,Single,Jazan,60118,Yes,Yes,Yes,Cellular,Student,11130,3
+C100114,35,Female,1,Post-Graduate,Single,Riyadh,28029,No,No,No,Cellular,Self-employed,27625,2
+C100115,61,Male,1,Doctorate,Widow,Tabuk,27598,No,No,Yes,Unknown,Unemployed,30190,3
+C100116,21,Male,2,High School,Married,Medina,80688,Yes,Yes,Yes,Unknown,Unemployed,28001,5
+C100117,40,Male,3,Doctorate,Single,Jeddah,74440,Yes,Yes,Yes,Unknown,Self-employed,16383,2
+C100118,25,Male,4,Post-Graduate,Married,Medina,76509,Yes,No,No,Telephone,Self-employed,15945,2
+C100119,47,Male,4,Uneducated,Divorced,Mecca,85552,No,Yes,No,Telephone,Businessman,26565,4
+C100120,44,Male,3,Graduated,Widow,Abha,89874,No,Yes,No,Cellular,Unemployed,27996,4
+C100121,25,Female,4,Post-Graduate,Married,Abha,33029,No,No,No,Telephone,Private Employee,21561,4
+C100122,55,Female,0,High School,Married,Jazan,35652,Yes,Yes,Yes,Cellular,Unemployed,35813,3
+C100123,51,Female,3,Graduated,Divorced,Taif,74166,No,Yes,No,Cellular,Businessman,28219,5
+C100124,30,Male,3,High School,Divorced,Abha,74044,No,Yes,No,Telephone,Freelancer,19173,2
+C100125,50,Male,2,Doctorate,Single,Dammam,44253,No,Yes,No,Cellular,Student,40902,2
+C100126,20,Male,0,Doctorate,Widow,Taif,86829,Yes,Yes,No,Cellular,Unemployed,30975,3
+C100127,64,Female,4,Post-Graduate,Widow,Mecca,63950,Yes,Yes,No,Cellular,Government Employee,16731,4
+C100128,64,Female,0,Uneducated,Widow,Riyadh,22697,Yes,No,No,Unknown,Government Employee,31242,2
+C100129,31,Female,1,Doctorate,Married,Medina,73762,Yes,Yes,No,Unknown,Unemployed,16931,2
+C100130,32,Male,1,Uneducated,Divorced,Taif,67767,Yes,Yes,Yes,Telephone,Businessman,27754,1
+C100131,37,Male,2,Unknown,Married,Jazan,73595,Yes,Yes,Yes,Telephone,Unemployed,3473,5
+C100132,22,Male,1,Post-Graduate,Single,Taif,89034,No,No,No,Telephone,Student,31144,3
+C100133,43,Female,2,Uneducated,Divorced,Taif,59602,Yes,No,No,Cellular,Businessman,32944,4
+C100134,28,Male,4,Unknown,Divorced,Medina,58290,No,No,No,Unknown,Self-employed,3205,3
+C100135,21,Female,0,Doctorate,Divorced,Jazan,40612,No,No,Yes,Telephone,Private Employee,34203,1
+C100136,44,Female,4,Uneducated,Married,Abha,84959,Yes,Yes,No,Cellular,Government Employee,47109,5
+C100137,49,Male,3,Unknown,Widow,Abha,41575,Yes,Yes,Yes,Unknown,Freelancer,8861,1
+C100138,47,Male,1,High School,Widow,Mecca,38885,No,No,Yes,Unknown,Self-employed,38031,4
+C100139,25,Female,1,Post-Graduate,Single,Tabuk,59415,No,No,Yes,Cellular,Government Employee,10581,3
+C100140,25,Male,0,High School,Married,Jeddah,85083,No,Yes,No,Telephone,Student,3110,3
+C100141,23,Male,3,Graduated,Divorced,Tabuk,99037,Yes,Yes,Yes,Telephone,Businessman,38277,4
+C100142,40,Male,2,Uneducated,Widow,Jazan,29323,No,Yes,Yes,Unknown,Government Employee,23243,5
+C100143,64,Male,2,Doctorate,Widow,Medina,74883,No,No,Yes,Telephone,Self-employed,49973,2
+C100144,34,Male,1,Graduated,Widow,Mecca,96409,Yes,Yes,No,Telephone,Private Employee,47426,4
+C100145,42,Female,3,Unknown,Divorced,Mecca,35571,No,Yes,Yes,Telephone,Unemployed,41036,1
+C100146,65,Female,3,Doctorate,Married,Dammam,67918,No,No,Yes,Cellular,Self-employed,15822,1
+C100147,43,Male,1,Graduated,Widow,Dammam,17383,Yes,No,No,Cellular,Businessman,10690,5
+C100148,61,Female,4,Graduated,Married,Taif,42112,Yes,Yes,Yes,Telephone,Private Employee,22837,5
+C100149,31,Female,0,Graduated,Widow,Mecca,92881,No,No,Yes,Cellular,Businessman,8415,1
+C100150,51,Male,0,Post-Graduate,Widow,Mecca,22393,Yes,No,No,Unknown,Freelancer,31420,3
+C100151,56,Male,0,High School,Single,Abha,34233,No,Yes,No,Unknown,Unemployed,38154,5
+C100152,51,Male,4,Post-Graduate,Single,Medina,96321,Yes,Yes,Yes,Cellular,Student,32309,3
+C100153,27,Male,1,Post-Graduate,Married,Dammam,21510,No,Yes,Yes,Cellular,Student,22567,3
+C100154,54,Male,3,Doctorate,Single,Medina,49400,Yes,No,No,Cellular,Student,35141,3
+C100155,53,Female,4,Post-Graduate,Married,Jeddah,96850,Yes,Yes,Yes,Cellular,Self-employed,22641,2
+C100156,28,Male,4,High School,Divorced,Dammam,91567,No,Yes,No,Telephone,Private Employee,45583,2
+C100157,45,Female,0,High School,Widow,Dammam,80242,Yes,Yes,No,Unknown,Freelancer,45308,2
+C100158,65,Female,4,Doctorate,Married,Taif,30118,No,No,No,Cellular,Student,19220,1
+C100159,37,Male,4,Unknown,Widow,Jeddah,53169,Yes,No,No,Telephone,Self-employed,17795,3
+C100160,20,Male,3,Uneducated,Widow,Jeddah,26187,Yes,No,No,Cellular,Student,25865,5
+C100161,38,Female,4,Unknown,Single,Dammam,51680,No,Yes,No,Unknown,Freelancer,37844,5
+C100162,58,Female,3,Post-Graduate,Married,Mecca,11244,Yes,Yes,Yes,Telephone,Student,20522,1
+C100163,60,Female,1,Doctorate,Widow,Jazan,33999,No,No,No,Unknown,Government Employee,21076,4
+C100164,53,Male,2,Doctorate,Single,Mecca,63282,No,Yes,Yes,Cellular,Freelancer,18731,1
+C100165,30,Male,0,Doctorate,Divorced,Abha,74598,Yes,No,Yes,Telephone,Private Employee,36751,5
+C100166,64,Male,3,Unknown,Married,Riyadh,65702,No,Yes,Yes,Unknown,Private Employee,14044,5
+C100167,34,Male,0,High School,Married,Abha,56306,Yes,No,No,Telephone,Self-employed,27463,1
+C100168,41,Male,4,Unknown,Divorced,Mecca,73324,No,No,Yes,Cellular,Freelancer,44364,5
+C100169,45,Male,2,Doctorate,Single,Jazan,90969,No,Yes,No,Cellular,Student,33169,3
+C100170,39,Female,0,Unknown,Divorced,Dammam,62699,No,Yes,Yes,Telephone,Private Employee,15946,1
+C100171,53,Male,3,Unknown,Widow,Riyadh,30398,No,Yes,No,Telephone,Government Employee,22613,3
+C100172,47,Male,4,High School,Single,Jazan,96019,No,Yes,Yes,Telephone,Freelancer,31440,1
+C100173,42,Male,0,Uneducated,Divorced,Riyadh,27521,No,No,No,Cellular,Self-employed,46660,2
+C100174,50,Female,0,Graduated,Widow,Abha,74955,Yes,No,No,Unknown,Freelancer,28483,2
+C100175,27,Male,0,Uneducated,Married,Tabuk,75536,Yes,Yes,Yes,Unknown,Unemployed,25422,4
+C100176,58,Male,3,Graduated,Divorced,Mecca,73691,Yes,No,Yes,Unknown,Self-employed,36504,2
+C100177,35,Female,0,High School,Married,Taif,36006,No,Yes,Yes,Cellular,Unemployed,41744,2
+C100178,34,Male,1,Graduated,Single,Mecca,35189,Yes,No,Yes,Unknown,Self-employed,8959,1
+C100179,44,Female,4,High School,Married,Medina,54063,No,No,Yes,Unknown,Private Employee,45196,1
+C100180,39,Male,2,High School,Divorced,Tabuk,64797,Yes,No,Yes,Cellular,Businessman,3035,1
+C100181,62,Female,1,High School,Widow,Mecca,89498,Yes,No,Yes,Telephone,Private Employee,26827,3
+C100182,39,Male,0,Doctorate,Single,Abha,27079,No,No,No,Unknown,Unemployed,41594,5
+C100183,58,Female,1,Doctorate,Divorced,Medina,86588,No,Yes,Yes,Cellular,Freelancer,42441,1
+C100184,22,Male,1,Doctorate,Widow,Jeddah,19814,No,No,No,Cellular,Student,13071,1
+C100185,28,Male,3,Post-Graduate,Divorced,Abha,55526,No,No,Yes,Telephone,Businessman,34642,4
+C100186,53,Male,1,Post-Graduate,Divorced,Dammam,47965,Yes,Yes,Yes,Unknown,Unemployed,29050,4
+C100187,63,Male,1,Graduated,Widow,Abha,61150,No,No,Yes,Cellular,Businessman,13485,5
+C100188,33,Male,4,Graduated,Divorced,Mecca,38879,No,No,Yes,Cellular,Self-employed,5989,5
+C100189,35,Female,0,Doctorate,Married,Mecca,27428,No,Yes,Yes,Cellular,Student,10614,1
+C100190,61,Female,4,High School,Divorced,Jeddah,81994,No,Yes,No,Unknown,Government Employee,24275,1
+C100191,60,Male,2,Uneducated,Divorced,Dammam,43552,Yes,Yes,No,Unknown,Government Employee,44040,5
+C100192,55,Male,3,Uneducated,Divorced,Mecca,36728,No,Yes,No,Cellular,Freelancer,31436,3
+C100193,29,Female,0,Graduated,Married,Jazan,34251,Yes,Yes,No,Unknown,Self-employed,45438,3
+C100194,21,Female,1,Uneducated,Widow,Medina,19103,Yes,Yes,No,Cellular,Private Employee,45278,4
+C100195,26,Male,0,Post-Graduate,Single,Taif,60330,Yes,Yes,Yes,Unknown,Businessman,11662,2
+C100196,25,Female,1,Doctorate,Single,Riyadh,23938,No,Yes,Yes,Cellular,Private Employee,39887,4
+C100197,30,Female,2,Graduated,Married,Medina,17323,No,Yes,Yes,Cellular,Businessman,38693,3
+C100198,26,Female,1,Unknown,Married,Riyadh,39710,No,No,Yes,Telephone,Freelancer,21798,2
+C100199,63,Female,0,Graduated,Married,Jeddah,39428,Yes,No,No,Cellular,Student,24870,1
+C100200,43,Male,0,Post-Graduate,Married,Dammam,66181,No,Yes,No,Cellular,Freelancer,48033,3
+C100201,59,Female,2,Unknown,Divorced,Jazan,96734,No,No,Yes,Cellular,Unemployed,12741,2
+C100202,40,Male,3,Graduated,Widow,Jeddah,24832,No,No,Yes,Cellular,Government Employee,11358,2
+C100203,44,Female,2,Graduated,Widow,Jazan,64256,No,Yes,Yes,Telephone,Private Employee,39001,4
+C100204,54,Female,4,Post-Graduate,Married,Taif,20959,No,Yes,Yes,Cellular,Government Employee,3187,2
+C100205,21,Female,4,Graduated,Married,Jeddah,17808,No,No,Yes,Telephone,Private Employee,12446,5
+C100206,46,Male,1,Uneducated,Single,Dammam,25366,Yes,No,Yes,Unknown,Private Employee,27358,1
+C100207,64,Male,4,Unknown,Widow,Dammam,13956,Yes,No,Yes,Cellular,Self-employed,8050,1
+C100208,56,Female,1,Uneducated,Widow,Dammam,79133,No,No,No,Unknown,Government Employee,32096,1
+C100209,38,Male,1,Unknown,Single,Dammam,75967,Yes,Yes,No,Telephone,Freelancer,32772,5
+C100210,65,Female,4,Post-Graduate,Divorced,Medina,65531,Yes,No,Yes,Unknown,Private Employee,11200,2
+C100211,45,Male,1,Graduated,Married,Abha,89309,Yes,No,No,Telephone,Freelancer,45066,4
+C100212,44,Male,0,High School,Widow,Medina,45378,Yes,Yes,Yes,Telephone,Student,24985,1
+C100213,35,Female,1,Post-Graduate,Single,Jeddah,37775,Yes,No,Yes,Unknown,Self-employed,44837,1
+C100214,35,Female,0,Post-Graduate,Single,Jazan,15987,Yes,No,Yes,Telephone,Businessman,26373,3
+C100215,45,Male,2,Graduated,Divorced,Dammam,98432,Yes,No,No,Unknown,Student,9619,5
+C100216,29,Male,4,Graduated,Widow,Riyadh,48026,Yes,Yes,No,Cellular,Freelancer,9113,2
+C100217,33,Male,1,Post-Graduate,Divorced,Jazan,27196,No,No,No,Unknown,Unemployed,31239,1
+C100218,65,Female,1,Uneducated,Single,Dammam,84304,No,Yes,Yes,Cellular,Unemployed,23286,5
+C100219,25,Female,0,Graduated,Divorced,Dammam,48745,Yes,Yes,No,Unknown,Government Employee,26158,1
+C100220,24,Male,3,High School,Widow,Mecca,67939,Yes,Yes,No,Cellular,Government Employee,21784,4
+C100221,46,Male,3,High School,Divorced,Tabuk,20943,No,No,No,Unknown,Businessman,43672,1
+C100222,35,Male,1,Unknown,Divorced,Taif,30736,No,Yes,Yes,Telephone,Unemployed,33295,1
+C100223,42,Female,3,Doctorate,Widow,Jeddah,21248,Yes,Yes,No,Telephone,Self-employed,29314,3
+C100224,24,Female,2,Post-Graduate,Widow,Medina,72419,Yes,No,No,Cellular,Student,13206,4
+C100225,29,Male,2,Post-Graduate,Single,Taif,18178,No,No,No,Cellular,Businessman,16860,1
+C100226,63,Female,2,High School,Married,Jeddah,28577,Yes,No,No,Cellular,Government Employee,49675,4
+C100227,46,Male,2,Uneducated,Single,Jeddah,66168,No,No,Yes,Cellular,Government Employee,30466,4
+C100228,50,Male,3,High School,Widow,Riyadh,83519,Yes,Yes,Yes,Telephone,Freelancer,23743,1
+C100229,29,Female,1,Graduated,Divorced,Jeddah,98335,No,No,Yes,Telephone,Unemployed,11239,4
+C100230,60,Male,0,Uneducated,Married,Taif,81576,Yes,No,Yes,Telephone,Self-employed,15527,5
+C100231,20,Female,2,Unknown,Divorced,Mecca,75809,Yes,No,No,Telephone,Private Employee,26050,3
+C100232,54,Female,4,High School,Single,Dammam,70138,No,No,Yes,Unknown,Student,13659,5
+C100233,47,Female,2,Doctorate,Widow,Mecca,91313,Yes,Yes,Yes,Cellular,Freelancer,4076,5
+C100234,46,Male,3,Doctorate,Single,Jazan,75976,Yes,No,No,Cellular,Self-employed,32794,5
+C100235,44,Male,1,Graduated,Single,Tabuk,70810,No,No,Yes,Telephone,Unemployed,17675,5
+C100236,38,Female,2,High School,Widow,Medina,10544,No,Yes,Yes,Cellular,Self-employed,27537,5
+C100237,58,Female,2,Uneducated,Widow,Medina,82841,No,Yes,No,Cellular,Unemployed,40870,4
+C100238,28,Female,1,Graduated,Divorced,Abha,30767,No,Yes,Yes,Unknown,Unemployed,11279,5
+C100239,27,Female,2,Post-Graduate,Married,Tabuk,36707,Yes,Yes,Yes,Telephone,Businessman,44215,5
+C100240,29,Male,4,Doctorate,Single,Taif,13314,Yes,No,No,Cellular,Self-employed,45763,2
+C100241,39,Male,4,Uneducated,Widow,Mecca,96410,Yes,No,Yes,Cellular,Freelancer,4516,5
+C100242,26,Male,3,Post-Graduate,Single,Jeddah,28590,No,No,Yes,Cellular,Businessman,35390,3
+C100243,33,Female,0,Graduated,Single,Taif,19643,No,Yes,Yes,Unknown,Private Employee,27592,3
+C100244,60,Female,1,Uneducated,Divorced,Riyadh,33419,Yes,Yes,No,Telephone,Private Employee,43239,5
+C100245,54,Male,1,Post-Graduate,Divorced,Jeddah,35276,Yes,Yes,Yes,Cellular,Unemployed,26913,1
+C100246,33,Male,2,Uneducated,Married,Jeddah,26591,No,No,No,Cellular,Businessman,25842,5
+C100247,61,Female,3,Doctorate,Widow,Taif,77194,No,Yes,No,Cellular,Self-employed,48026,3
+C100248,45,Male,4,Post-Graduate,Divorced,Dammam,36978,No,No,No,Telephone,Student,20804,3
+C100249,59,Male,4,Graduated,Widow,Medina,84336,No,No,Yes,Telephone,Self-employed,5212,5
+C100250,36,Female,2,Post-Graduate,Divorced,Taif,13924,Yes,Yes,No,Telephone,Unemployed,15184,3
+C100251,35,Male,1,Doctorate,Divorced,Tabuk,29010,No,Yes,Yes,Telephone,Freelancer,3714,3
+C100252,33,Female,4,High School,Married,Abha,18681,No,No,Yes,Unknown,Self-employed,9744,5
+C100253,37,Male,4,Doctorate,Widow,Taif,51652,No,Yes,Yes,Cellular,Unemployed,35370,4
+C100254,22,Female,3,Unknown,Single,Jazan,32431,No,No,Yes,Unknown,Businessman,21680,1
+C100255,61,Male,3,High School,Married,Taif,14850,Yes,No,Yes,Cellular,Private Employee,9233,4
+C100256,39,Female,2,High School,Widow,Jeddah,82935,No,No,Yes,Telephone,Government Employee,48643,4
+C100257,51,Male,2,Post-Graduate,Single,Riyadh,39362,Yes,Yes,Yes,Cellular,Government Employee,48062,4
+C100258,34,Male,0,Uneducated,Divorced,Abha,10647,Yes,No,Yes,Cellular,Businessman,22941,1
+C100259,36,Female,4,Graduated,Divorced,Dammam,28056,No,Yes,Yes,Telephone,Unemployed,12699,5
+C100260,46,Female,0,Post-Graduate,Married,Jazan,96673,No,No,No,Unknown,Private Employee,17800,1
+C100261,36,Female,0,High School,Married,Medina,20225,Yes,No,Yes,Cellular,Businessman,46941,2
+C100262,49,Female,1,Graduated,Single,Tabuk,37349,No,No,No,Unknown,Self-employed,36063,1
+C100263,28,Male,2,Graduated,Widow,Abha,36610,No,Yes,Yes,Telephone,Private Employee,13760,3
+C100264,56,Male,1,Graduated,Single,Jeddah,41531,Yes,No,Yes,Telephone,Businessman,34210,5
+C100265,48,Female,2,Unknown,Single,Tabuk,66554,Yes,Yes,No,Unknown,Private Employee,36287,3
+C100266,23,Female,2,High School,Single,Riyadh,95016,No,No,Yes,Telephone,Self-employed,29390,2
+C100267,58,Female,4,Post-Graduate,Widow,Abha,66828,Yes,Yes,Yes,Cellular,Self-employed,10548,1
+C100268,22,Female,1,Unknown,Single,Mecca,39683,No,No,No,Cellular,Self-employed,48330,3
+C100269,51,Male,1,Uneducated,Divorced,Mecca,88159,No,Yes,Yes,Cellular,Student,48906,5
+C100270,50,Female,1,Uneducated,Divorced,Jeddah,31842,Yes,No,No,Cellular,Businessman,46649,4
+C100271,47,Female,0,Uneducated,Divorced,Jeddah,32377,Yes,No,No,Unknown,Businessman,35001,2
+C100272,50,Male,0,Unknown,Divorced,Medina,78848,Yes,Yes,Yes,Cellular,Government Employee,24998,4
+C100273,51,Female,4,High School,Widow,Mecca,57748,No,Yes,No,Telephone,Freelancer,24871,5
+C100274,62,Female,0,High School,Single,Dammam,63781,Yes,Yes,No,Telephone,Businessman,19014,5
+C100275,64,Female,2,Uneducated,Single,Medina,59516,Yes,No,No,Unknown,Self-employed,20387,3
+C100276,41,Female,4,Graduated,Divorced,Mecca,34978,Yes,No,Yes,Telephone,Unemployed,32820,5
+C100277,42,Female,0,Unknown,Widow,Dammam,71121,Yes,No,Yes,Telephone,Private Employee,21891,1
+C100278,38,Male,3,Unknown,Married,Mecca,87735,Yes,Yes,No,Telephone,Businessman,31201,3
+C100279,62,Male,0,High School,Married,Tabuk,47128,Yes,Yes,No,Cellular,Freelancer,15892,4
+C100280,57,Male,2,Uneducated,Single,Jazan,56482,Yes,No,No,Telephone,Businessman,20121,3
+C100281,58,Female,1,Post-Graduate,Widow,Tabuk,85781,Yes,Yes,No,Cellular,Private Employee,39325,2
+C100282,39,Female,0,High School,Widow,Abha,34034,No,No,Yes,Cellular,Student,31960,3
+C100283,52,Female,3,High School,Widow,Jazan,65116,No,No,Yes,Unknown,Businessman,30585,1
+C100284,28,Female,1,Post-Graduate,Divorced,Dammam,91381,No,Yes,No,Cellular,Private Employee,46914,1
+C100285,49,Female,0,Unknown,Single,Mecca,95181,Yes,No,Yes,Telephone,Student,34553,3
+C100286,23,Male,4,Doctorate,Single,Medina,77667,Yes,No,Yes,Cellular,Freelancer,44921,2
+C100287,39,Female,0,Graduated,Married,Jeddah,18800,Yes,Yes,Yes,Unknown,Businessman,19200,2
+C100288,26,Female,0,Post-Graduate,Widow,Taif,17294,Yes,No,No,Telephone,Self-employed,18396,5
+C100289,36,Female,4,Unknown,Widow,Dammam,93387,Yes,Yes,Yes,Unknown,Freelancer,18773,2
+C100290,52,Male,3,Graduated,Divorced,Mecca,97495,Yes,No,No,Unknown,Government Employee,28636,4
+C100291,64,Male,3,Graduated,Widow,Dammam,13666,No,No,Yes,Unknown,Private Employee,3722,5
+C100292,39,Male,4,Graduated,Single,Tabuk,28258,No,No,No,Cellular,Self-employed,26445,5
+C100293,52,Male,2,Doctorate,Widow,Abha,18226,Yes,Yes,No,Unknown,Freelancer,39906,3
+C100294,49,Male,2,Doctorate,Divorced,Taif,18940,No,No,No,Unknown,Freelancer,14821,5
+C100295,65,Female,1,Doctorate,Divorced,Tabuk,86610,No,Yes,Yes,Cellular,Unemployed,13431,2
+C100296,26,Male,3,Doctorate,Widow,Tabuk,40347,Yes,Yes,Yes,Unknown,Private Employee,30528,1
+C100297,23,Female,0,Unknown,Single,Jazan,59063,Yes,Yes,No,Cellular,Freelancer,32459,4
+C100298,28,Male,1,High School,Widow,Jazan,98978,No,Yes,Yes,Unknown,Self-employed,31446,5
+C100299,32,Male,4,Unknown,Single,Medina,14356,Yes,Yes,No,Telephone,Student,38820,1
+C100300,41,Male,4,Graduated,Married,Medina,84759,No,No,No,Unknown,Student,12035,1
+C100301,48,Female,3,Unknown,Single,Dammam,77796,No,Yes,Yes,Telephone,Self-employed,6373,5
+C100302,54,Female,0,Uneducated,Divorced,Mecca,61173,No,Yes,Yes,Telephone,Businessman,38023,5
+C100303,35,Female,3,Post-Graduate,Single,Abha,24532,No,No,Yes,Cellular,Government Employee,30617,3
+C100304,32,Female,0,Uneducated,Married,Abha,53202,Yes,Yes,No,Cellular,Unemployed,39952,5
+C100305,64,Male,2,Unknown,Widow,Jeddah,82276,No,Yes,No,Unknown,Businessman,9819,1
+C100306,51,Male,2,Graduated,Widow,Mecca,39852,Yes,Yes,Yes,Cellular,Student,42854,4
+C100307,63,Male,4,Graduated,Single,Taif,59444,Yes,No,No,Unknown,Self-employed,10574,4
+C100308,27,Female,2,Uneducated,Divorced,Taif,17592,Yes,Yes,Yes,Unknown,Businessman,17884,4
+C100309,54,Male,0,Doctorate,Married,Riyadh,20041,Yes,Yes,No,Cellular,Government Employee,5865,3
+C100310,42,Male,2,Uneducated,Widow,Jazan,96190,Yes,Yes,Yes,Telephone,Student,16491,4
+C100311,65,Female,1,Graduated,Divorced,Tabuk,82273,No,Yes,No,Telephone,Freelancer,38482,5
+C100312,26,Male,2,Graduated,Widow,Mecca,20282,Yes,Yes,Yes,Telephone,Freelancer,39239,2
+C100313,27,Female,1,Unknown,Married,Jazan,95184,No,Yes,Yes,Telephone,Unemployed,5212,3
+C100314,37,Female,2,Unknown,Single,Mecca,89920,No,No,Yes,Telephone,Private Employee,32099,1
+C100315,34,Male,3,Uneducated,Widow,Abha,16849,No,Yes,No,Cellular,Student,25034,3
+C100316,57,Male,0,High School,Widow,Taif,17486,Yes,No,No,Unknown,Private Employee,30776,5
+C100317,56,Female,1,Graduated,Widow,Medina,27284,Yes,No,No,Cellular,Self-employed,38573,3
+C100318,41,Female,0,Post-Graduate,Divorced,Tabuk,45225,No,Yes,Yes,Telephone,Student,46304,3
+C100319,36,Male,3,Graduated,Single,Jazan,11162,No,Yes,No,Telephone,Freelancer,39477,2
+C100320,46,Male,4,Unknown,Divorced,Abha,51160,Yes,No,Yes,Telephone,Unemployed,21097,3
+C100321,51,Male,1,Doctorate,Married,Dammam,90995,Yes,Yes,Yes,Unknown,Businessman,15075,5
+C100322,48,Female,0,Post-Graduate,Married,Riyadh,43954,No,Yes,No,Unknown,Freelancer,5931,5
+C100323,35,Female,0,Unknown,Widow,Jeddah,76982,Yes,Yes,Yes,Telephone,Student,27337,4
+C100324,24,Female,2,Uneducated,Single,Tabuk,89556,No,No,No,Unknown,Government Employee,33846,3
+C100325,59,Male,1,High School,Single,Mecca,29669,Yes,Yes,Yes,Telephone,Student,49908,5
+C100326,57,Female,1,Graduated,Single,Dammam,59950,Yes,Yes,Yes,Unknown,Student,40646,5
+C100327,46,Male,4,Unknown,Widow,Abha,78201,No,No,No,Cellular,Unemployed,40699,3
+C100328,35,Female,1,High School,Married,Jazan,51263,Yes,Yes,No,Unknown,Private Employee,26716,1
+C100329,42,Male,2,Doctorate,Widow,Medina,68847,No,Yes,Yes,Unknown,Self-employed,29713,5
+C100330,62,Male,4,High School,Divorced,Tabuk,51136,Yes,Yes,No,Telephone,Student,12725,5
+C100331,51,Male,1,Graduated,Single,Dammam,25832,No,No,No,Unknown,Businessman,11283,1
+C100332,47,Male,1,Unknown,Married,Abha,79377,No,No,No,Cellular,Private Employee,48673,5
+C100333,35,Female,0,High School,Divorced,Jeddah,15929,Yes,No,No,Telephone,Freelancer,32475,4
+C100334,38,Female,1,Doctorate,Married,Abha,20982,Yes,Yes,No,Unknown,Freelancer,32722,4
+C100335,40,Female,1,Post-Graduate,Divorced,Jeddah,40443,No,No,No,Cellular,Student,36926,5
+C100336,57,Female,2,High School,Widow,Tabuk,33385,Yes,Yes,Yes,Telephone,Student,21235,5
+C100337,59,Female,0,High School,Divorced,Dammam,25538,No,No,No,Telephone,Self-employed,14096,3
+C100338,36,Male,1,Doctorate,Divorced,Dammam,22579,Yes,Yes,Yes,Unknown,Businessman,38378,5
+C100339,32,Male,3,Unknown,Divorced,Medina,46941,No,No,Yes,Telephone,Government Employee,10183,1
+C100340,48,Female,3,High School,Single,Dammam,46497,Yes,No,Yes,Unknown,Unemployed,17577,1
+C100341,40,Male,4,High School,Divorced,Jazan,92657,Yes,No,Yes,Telephone,Businessman,49209,5
+C100342,40,Male,4,Doctorate,Single,Riyadh,42232,Yes,No,Yes,Unknown,Self-employed,20385,4
+C100343,29,Female,1,Doctorate,Widow,Mecca,27274,Yes,Yes,Yes,Cellular,Private Employee,7408,4
+C100344,55,Male,1,Unknown,Widow,Mecca,90396,No,Yes,No,Telephone,Student,46053,2
+C100345,39,Male,2,Doctorate,Widow,Jazan,92578,No,No,No,Telephone,Businessman,17347,1
+C100346,38,Female,3,High School,Married,Taif,25180,Yes,No,No,Unknown,Businessman,25778,4
+C100347,65,Male,3,Graduated,Widow,Medina,13796,No,No,Yes,Telephone,Businessman,39848,3
+C100348,36,Female,3,Graduated,Widow,Taif,62255,No,Yes,No,Telephone,Freelancer,17348,3
+C100349,60,Male,2,Graduated,Widow,Medina,85039,Yes,Yes,Yes,Unknown,Student,24606,2
+C100350,58,Male,0,Graduated,Single,Tabuk,56229,Yes,Yes,Yes,Telephone,Student,16004,2
+C100351,54,Female,1,High School,Married,Tabuk,53450,No,Yes,Yes,Cellular,Businessman,4312,5
+C100352,26,Female,3,Unknown,Married,Mecca,49513,Yes,Yes,Yes,Cellular,Government Employee,11103,4
+C100353,61,Female,1,Doctorate,Divorced,Jeddah,20030,Yes,No,Yes,Cellular,Freelancer,38500,5
+C100354,29,Male,4,Graduated,Married,Mecca,52431,No,Yes,No,Telephone,Private Employee,16281,1
+C100355,36,Female,3,High School,Widow,Jeddah,39131,No,No,No,Telephone,Freelancer,37944,5
+C100356,35,Female,0,Graduated,Widow,Tabuk,81641,Yes,No,Yes,Unknown,Businessman,29040,2
+C100357,48,Female,3,Post-Graduate,Single,Mecca,53572,Yes,Yes,Yes,Unknown,Self-employed,16610,4
+C100358,57,Male,0,Uneducated,Widow,Jazan,78603,Yes,Yes,No,Telephone,Private Employee,23411,3
+C100359,29,Male,2,Doctorate,Widow,Riyadh,45146,Yes,No,No,Telephone,Freelancer,18449,3
+C100360,49,Female,4,Post-Graduate,Single,Jeddah,65797,Yes,No,Yes,Cellular,Self-employed,37074,1
+C100361,30,Male,3,Unknown,Single,Taif,74904,Yes,No,Yes,Unknown,Unemployed,38853,4
+C100362,45,Male,2,Unknown,Widow,Mecca,98694,No,No,No,Unknown,Freelancer,13875,2
+C100363,38,Male,4,Doctorate,Divorced,Abha,89235,No,No,No,Cellular,Government Employee,11869,2
+C100364,53,Female,0,High School,Widow,Dammam,29706,No,Yes,Yes,Telephone,Freelancer,15299,2
+C100365,64,Male,4,Graduated,Divorced,Jeddah,18009,No,Yes,Yes,Telephone,Freelancer,39644,2
+C100366,42,Male,1,High School,Divorced,Taif,86607,No,No,No,Telephone,Student,38456,2
+C100367,24,Male,0,Doctorate,Married,Mecca,33373,No,Yes,Yes,Unknown,Student,45259,4
+C100368,41,Female,4,Doctorate,Widow,Medina,32033,Yes,Yes,Yes,Cellular,Unemployed,43299,2
+C100369,29,Male,3,Unknown,Divorced,Jeddah,16840,Yes,No,No,Unknown,Private Employee,24436,3
+C100370,52,Male,1,Post-Graduate,Widow,Taif,60532,No,No,No,Unknown,Government Employee,37779,1
+C100371,58,Male,1,Doctorate,Divorced,Dammam,67310,No,No,No,Unknown,Businessman,39562,4
+C100372,61,Female,1,Unknown,Divorced,Jazan,97823,No,No,Yes,Unknown,Student,15516,4
+C100373,43,Male,0,Uneducated,Widow,Tabuk,78944,Yes,Yes,No,Telephone,Businessman,27174,3
+C100374,52,Male,4,High School,Single,Mecca,94105,No,No,Yes,Unknown,Freelancer,19583,3
+C100375,60,Male,4,Unknown,Widow,Jazan,74264,Yes,No,Yes,Cellular,Government Employee,4889,5
+C100376,65,Male,1,Uneducated,Single,Taif,25653,Yes,No,Yes,Telephone,Businessman,38657,3
+C100377,32,Male,2,Doctorate,Divorced,Dammam,86919,No,Yes,No,Telephone,Unemployed,46759,1
+C100378,24,Male,4,Uneducated,Divorced,Jeddah,32621,No,Yes,No,Unknown,Self-employed,48135,5
+C100379,46,Male,0,High School,Divorced,Abha,55964,Yes,No,No,Unknown,Unemployed,48632,1
+C100380,56,Female,0,Unknown,Single,Dammam,21326,Yes,No,Yes,Cellular,Unemployed,3684,2
+C100381,60,Female,3,Unknown,Married,Mecca,99245,Yes,Yes,No,Cellular,Private Employee,49262,3
+C100382,31,Female,1,Post-Graduate,Divorced,Taif,39617,Yes,No,Yes,Cellular,Government Employee,19997,4
+C100383,36,Male,3,High School,Divorced,Tabuk,94125,No,Yes,Yes,Unknown,Private Employee,13204,5
+C100384,56,Male,3,High School,Divorced,Medina,54850,No,Yes,Yes,Telephone,Self-employed,33650,3
+C100385,22,Male,4,Doctorate,Married,Jazan,28325,No,No,No,Unknown,Private Employee,46142,5
+C100386,22,Female,0,Doctorate,Divorced,Riyadh,30807,No,No,No,Telephone,Freelancer,9567,2
+C100387,42,Female,1,Graduated,Married,Riyadh,67541,No,No,No,Telephone,Unemployed,18963,3
+C100388,43,Female,3,Doctorate,Widow,Mecca,15259,Yes,Yes,No,Telephone,Unemployed,20652,5
+C100389,45,Male,1,Post-Graduate,Married,Mecca,88230,Yes,Yes,Yes,Unknown,Government Employee,6525,1
+C100390,39,Male,2,Graduated,Widow,Dammam,70370,Yes,Yes,Yes,Cellular,Government Employee,23154,1
+C100391,31,Male,1,Graduated,Single,Medina,30203,No,Yes,No,Cellular,Government Employee,9547,4
+C100392,55,Female,1,Graduated,Widow,Jazan,41816,Yes,No,Yes,Telephone,Unemployed,11750,4
+C100393,40,Female,3,Post-Graduate,Widow,Abha,19392,No,No,Yes,Cellular,Student,14675,2
+C100394,43,Female,2,Post-Graduate,Single,Taif,20127,Yes,Yes,No,Cellular,Businessman,16843,3
+C100395,47,Male,2,Graduated,Married,Taif,29758,No,No,No,Unknown,Unemployed,34500,1
+C100396,36,Female,1,Uneducated,Widow,Abha,23950,No,Yes,No,Unknown,Freelancer,9645,4
+C100397,20,Male,2,Uneducated,Widow,Jazan,11518,No,No,No,Cellular,Government Employee,30851,3
+C100398,60,Male,4,Graduated,Divorced,Jazan,53917,No,Yes,Yes,Telephone,Student,28131,1
+C100399,29,Male,2,Doctorate,Divorced,Medina,77488,No,No,Yes,Telephone,Government Employee,5611,1
+C100400,51,Female,2,Unknown,Divorced,Mecca,65797,No,No,Yes,Unknown,Government Employee,14713,3
+C100401,42,Female,0,Graduated,Divorced,Mecca,93359,Yes,Yes,No,Unknown,Businessman,37817,4
+C100402,35,Male,0,Post-Graduate,Single,Dammam,28958,No,No,No,Telephone,Private Employee,48153,5
+C100403,35,Female,0,Unknown,Divorced,Tabuk,15018,Yes,Yes,No,Unknown,Freelancer,8161,3
+C100404,60,Female,3,Graduated,Single,Dammam,43666,Yes,No,Yes,Cellular,Student,20103,3
+C100405,59,Male,0,High School,Widow,Medina,67271,No,Yes,No,Unknown,Freelancer,5997,5
+C100406,45,Male,2,High School,Single,Taif,37149,Yes,No,Yes,Telephone,Government Employee,33306,5
+C100407,60,Female,0,Uneducated,Married,Riyadh,52547,Yes,Yes,No,Unknown,Freelancer,42932,4
+C100408,57,Female,4,High School,Widow,Jazan,83093,Yes,No,No,Telephone,Government Employee,32123,2
+C100409,49,Female,1,Post-Graduate,Married,Taif,43514,No,Yes,Yes,Unknown,Private Employee,39787,3
+C100410,25,Male,4,High School,Divorced,Mecca,51331,No,No,Yes,Cellular,Student,41334,2
+C100411,59,Female,4,Graduated,Widow,Riyadh,47209,No,Yes,No,Unknown,Self-employed,27800,5
+C100412,27,Male,3,Uneducated,Married,Jeddah,84808,No,Yes,Yes,Unknown,Private Employee,39049,4
+C100413,42,Male,3,Post-Graduate,Divorced,Tabuk,57602,Yes,No,No,Cellular,Unemployed,29474,4
+C100414,49,Female,3,Uneducated,Married,Taif,47802,Yes,No,No,Unknown,Self-employed,47784,1
+C100415,44,Female,3,Graduated,Married,Riyadh,91117,Yes,Yes,Yes,Unknown,Student,29789,1
+C100416,40,Male,1,Post-Graduate,Widow,Jeddah,58535,Yes,No,Yes,Cellular,Private Employee,27186,2
+C100417,31,Female,1,High School,Married,Mecca,18495,Yes,Yes,No,Telephone,Self-employed,47805,5
+C100418,48,Male,1,Graduated,Single,Tabuk,30875,Yes,No,Yes,Cellular,Freelancer,5118,4
+C100419,53,Female,3,Unknown,Widow,Mecca,80430,Yes,Yes,No,Telephone,Unemployed,6918,3
+C100420,45,Male,2,Graduated,Widow,Taif,26260,Yes,Yes,No,Unknown,Unemployed,10325,2
+C100421,43,Female,2,Uneducated,Married,Jazan,37536,No,Yes,No,Unknown,Freelancer,7854,4
+C100422,65,Female,1,High School,Divorced,Mecca,68284,No,No,No,Unknown,Government Employee,41956,1
+C100423,28,Male,4,High School,Single,Medina,58608,No,No,No,Unknown,Self-employed,40200,3
+C100424,50,Female,2,Uneducated,Married,Dammam,89619,No,No,No,Unknown,Self-employed,4835,2
+C100425,57,Female,1,Post-Graduate,Single,Mecca,57731,No,No,Yes,Telephone,Freelancer,13215,5
+C100426,52,Female,4,High School,Widow,Jazan,94984,Yes,No,Yes,Telephone,Private Employee,3932,1
+C100427,41,Male,2,Uneducated,Married,Dammam,46479,Yes,Yes,No,Telephone,Private Employee,40316,1
+C100428,53,Male,1,High School,Single,Taif,92103,Yes,No,Yes,Telephone,Student,38045,5
+C100429,25,Male,3,Post-Graduate,Married,Medina,43563,Yes,Yes,Yes,Unknown,Freelancer,32888,2
+C100430,22,Female,4,High School,Single,Medina,18345,Yes,No,Yes,Cellular,Self-employed,18986,5
+C100431,57,Female,3,Unknown,Single,Tabuk,93087,Yes,Yes,No,Cellular,Private Employee,8464,4
+C100432,32,Male,4,Post-Graduate,Married,Jazan,49316,Yes,No,Yes,Unknown,Private Employee,45115,2
+C100433,57,Female,0,High School,Widow,Mecca,74566,Yes,No,No,Unknown,Government Employee,45289,3
+C100434,36,Male,2,High School,Divorced,Jazan,24610,Yes,No,Yes,Telephone,Student,33835,4
+C100435,30,Male,0,Graduated,Divorced,Jeddah,68090,No,Yes,Yes,Cellular,Unemployed,18191,2
+C100436,39,Female,2,Post-Graduate,Widow,Jeddah,99751,No,Yes,Yes,Telephone,Self-employed,15576,4
+C100437,30,Male,4,Doctorate,Married,Tabuk,77694,No,No,No,Cellular,Government Employee,33931,3
+C100438,43,Male,2,High School,Divorced,Tabuk,68944,No,No,No,Telephone,Businessman,29481,1
+C100439,46,Female,1,Graduated,Divorced,Riyadh,36504,Yes,No,No,Telephone,Businessman,24092,4
+C100440,44,Female,4,Post-Graduate,Married,Medina,90944,No,No,Yes,Cellular,Self-employed,13513,3
+C100441,50,Female,0,Doctorate,Widow,Jazan,42747,No,No,Yes,Cellular,Businessman,44918,3
+C100442,37,Female,3,High School,Single,Jazan,27600,Yes,No,No,Cellular,Unemployed,12857,5
+C100443,39,Male,4,Unknown,Widow,Medina,52970,No,No,Yes,Cellular,Unemployed,7456,3
+C100444,43,Female,1,Uneducated,Divorced,Jazan,39842,No,No,No,Cellular,Freelancer,49141,3
+C100445,36,Male,1,Unknown,Widow,Taif,61944,No,Yes,Yes,Unknown,Government Employee,4061,5
+C100446,47,Male,4,High School,Widow,Mecca,85342,No,Yes,Yes,Unknown,Businessman,39588,1
+C100447,54,Male,4,Unknown,Widow,Medina,19579,No,No,No,Telephone,Freelancer,12974,3
+C100448,24,Male,4,High School,Widow,Abha,66675,Yes,No,No,Cellular,Student,28555,1
+C100449,20,Male,2,Graduated,Married,Mecca,39214,No,No,Yes,Unknown,Government Employee,49851,5
+C100450,29,Male,1,Uneducated,Divorced,Dammam,23224,Yes,Yes,Yes,Unknown,Government Employee,7539,3
+C100451,40,Male,1,Uneducated,Divorced,Dammam,65611,No,Yes,Yes,Telephone,Businessman,11998,4
+C100452,27,Female,0,Graduated,Married,Taif,16450,No,No,No,Cellular,Self-employed,27936,5
+C100453,27,Male,1,Post-Graduate,Single,Dammam,37477,Yes,No,No,Unknown,Government Employee,30205,2
+C100454,33,Male,4,High School,Widow,Mecca,76680,Yes,No,Yes,Cellular,Private Employee,30526,4
+C100455,26,Female,2,High School,Single,Taif,95459,No,Yes,Yes,Unknown,Freelancer,28538,4
+C100456,21,Female,2,Unknown,Married,Medina,33246,Yes,Yes,Yes,Cellular,Freelancer,33789,1
+C100457,23,Male,2,High School,Widow,Dammam,64950,Yes,Yes,Yes,Unknown,Unemployed,46821,2
+C100458,43,Male,1,Unknown,Widow,Medina,50116,No,No,No,Unknown,Government Employee,4866,1
+C100459,41,Male,3,Unknown,Married,Taif,16094,No,Yes,Yes,Cellular,Businessman,25850,2
+C100460,25,Female,0,Unknown,Widow,Jazan,64404,No,Yes,Yes,Telephone,Private Employee,33768,3
+C100461,28,Female,4,High School,Single,Jazan,74592,Yes,Yes,Yes,Unknown,Self-employed,12345,2
+C100462,62,Male,0,Doctorate,Widow,Mecca,90611,Yes,Yes,Yes,Telephone,Self-employed,46212,3
+C100463,41,Female,4,Post-Graduate,Divorced,Dammam,52984,No,No,Yes,Unknown,Freelancer,5242,4
+C100464,60,Male,1,Uneducated,Single,Dammam,93182,Yes,Yes,Yes,Telephone,Government Employee,3767,5
+C100465,50,Female,2,Uneducated,Widow,Jazan,38159,No,No,No,Cellular,Freelancer,21304,5
+C100466,41,Female,1,High School,Divorced,Jazan,81945,No,Yes,No,Unknown,Government Employee,7136,3
+C100467,47,Male,4,Uneducated,Single,Medina,69956,Yes,Yes,No,Cellular,Unemployed,25781,3
+C100468,48,Female,4,Unknown,Married,Taif,76965,Yes,Yes,Yes,Cellular,Self-employed,26195,5
+C100469,58,Male,4,Post-Graduate,Single,Abha,57534,Yes,Yes,No,Cellular,Businessman,47590,2
+C100470,60,Male,1,Post-Graduate,Widow,Medina,46493,Yes,No,No,Telephone,Student,30607,4
+C100471,49,Female,1,Doctorate,Divorced,Riyadh,19813,No,No,Yes,Unknown,Student,41927,1
+C100472,23,Female,1,Uneducated,Widow,Dammam,41780,No,Yes,No,Telephone,Student,15672,2
+C100473,42,Male,1,High School,Married,Taif,26183,Yes,Yes,No,Cellular,Freelancer,21053,3
+C100474,20,Male,4,High School,Single,Jazan,40432,No,No,Yes,Unknown,Freelancer,42979,4
+C100475,29,Male,2,High School,Single,Taif,43482,Yes,No,No,Unknown,Self-employed,49514,4
+C100476,38,Male,4,Unknown,Single,Tabuk,41626,No,No,No,Cellular,Freelancer,9893,3
+C100477,37,Female,4,High School,Widow,Mecca,56748,Yes,Yes,Yes,Unknown,Unemployed,34820,2
+C100478,57,Female,1,Post-Graduate,Widow,Mecca,23626,No,No,No,Cellular,Student,10064,5
+C100479,61,Male,4,Unknown,Single,Medina,57277,No,No,Yes,Telephone,Freelancer,31851,4
+C100480,56,Male,3,Doctorate,Widow,Riyadh,38316,Yes,Yes,No,Cellular,Government Employee,30010,1
+C100481,49,Female,2,Doctorate,Divorced,Tabuk,42597,No,No,Yes,Telephone,Private Employee,48816,3
+C100482,30,Male,4,Post-Graduate,Divorced,Taif,55683,Yes,No,Yes,Telephone,Government Employee,43396,5
+C100483,34,Female,2,Unknown,Single,Taif,51015,No,Yes,No,Cellular,Government Employee,49359,4
+C100484,42,Female,3,High School,Married,Dammam,52304,Yes,Yes,Yes,Unknown,Government Employee,36169,5
+C100485,38,Male,3,Post-Graduate,Single,Medina,22237,Yes,No,No,Cellular,Freelancer,25292,5
+C100486,42,Female,1,Graduated,Single,Mecca,90402,Yes,No,Yes,Telephone,Unemployed,5672,2
+C100487,55,Male,2,Unknown,Widow,Medina,38701,Yes,Yes,No,Unknown,Unemployed,17153,2
+C100488,20,Female,1,Unknown,Widow,Jazan,64332,Yes,No,Yes,Unknown,Student,29189,5
+C100489,44,Female,2,High School,Widow,Tabuk,57777,Yes,No,No,Cellular,Freelancer,11814,3
+C100490,64,Male,4,Post-Graduate,Married,Jeddah,76512,No,No,Yes,Unknown,Self-employed,25828,5
+C100491,34,Female,2,Post-Graduate,Single,Jazan,91108,No,No,No,Cellular,Self-employed,4449,5
+C100492,48,Male,2,Graduated,Married,Jeddah,99392,No,Yes,No,Unknown,Government Employee,4807,5
+C100493,51,Female,1,Graduated,Married,Jazan,50609,No,No,Yes,Unknown,Unemployed,36289,4
+C100494,29,Female,0,Post-Graduate,Single,Tabuk,86997,Yes,Yes,Yes,Unknown,Private Employee,13564,2
+C100495,35,Male,1,Unknown,Widow,Jeddah,53488,Yes,Yes,No,Unknown,Freelancer,47915,4
+C100496,46,Female,3,Uneducated,Divorced,Dammam,22564,No,No,Yes,Unknown,Private Employee,19515,4
+C100497,25,Male,2,Graduated,Married,Medina,56032,Yes,No,No,Cellular,Student,19893,1
+C100498,58,Male,4,Unknown,Divorced,Jeddah,32087,Yes,Yes,Yes,Telephone,Private Employee,23071,1
+C100499,56,Female,0,Uneducated,Married,Jazan,33827,Yes,No,Yes,Unknown,Self-employed,42303,3
+C100500,56,Male,3,Doctorate,Married,Abha,29510,No,Yes,Yes,Unknown,Unemployed,10882,3
+C100501,38,Male,2,Doctorate,Married,Abha,31939,Yes,No,Yes,Unknown,Self-employed,43186,3
+C100502,49,Female,3,Unknown,Single,Tabuk,42272,No,Yes,Yes,Telephone,Self-employed,29495,1
+C100503,42,Male,3,Doctorate,Single,Abha,21921,No,No,Yes,Telephone,Government Employee,11878,4
+C100504,32,Female,3,Graduated,Widow,Taif,20798,No,Yes,No,Cellular,Government Employee,39782,4
+C100505,59,Female,2,Graduated,Divorced,Riyadh,79147,Yes,Yes,Yes,Telephone,Student,40439,5
+C100506,31,Female,0,Post-Graduate,Single,Riyadh,49707,No,Yes,No,Unknown,Businessman,47837,4
+C100507,52,Male,4,High School,Single,Medina,22930,No,Yes,Yes,Unknown,Government Employee,7781,2
+C100508,51,Male,4,Doctorate,Single,Riyadh,60002,Yes,Yes,No,Cellular,Self-employed,46227,3
+C100509,31,Female,1,High School,Widow,Riyadh,30437,Yes,Yes,No,Telephone,Freelancer,40390,3
+C100510,33,Female,3,Doctorate,Single,Taif,64216,No,No,Yes,Telephone,Government Employee,42330,1
+C100511,60,Female,0,Doctorate,Widow,Dammam,96895,Yes,Yes,Yes,Cellular,Self-employed,35016,1
+C100512,31,Female,1,Doctorate,Divorced,Taif,47330,No,No,No,Cellular,Unemployed,10825,4
+C100513,32,Male,4,Graduated,Married,Dammam,77924,Yes,No,No,Cellular,Businessman,17984,1
+C100514,44,Male,0,Doctorate,Single,Medina,67140,No,No,Yes,Telephone,Student,5690,5
+C100515,32,Male,2,Unknown,Single,Dammam,54741,No,Yes,No,Telephone,Self-employed,45214,1
+C100516,45,Female,1,High School,Single,Medina,34112,Yes,No,No,Cellular,Unemployed,31870,1
+C100517,35,Female,4,Uneducated,Married,Abha,51622,Yes,Yes,Yes,Telephone,Student,38014,1
+C100518,59,Male,2,High School,Single,Dammam,23604,Yes,Yes,No,Cellular,Student,6828,4
+C100519,56,Male,1,Doctorate,Single,Abha,19689,Yes,No,No,Telephone,Freelancer,43373,4
+C100520,48,Male,3,Post-Graduate,Divorced,Tabuk,93453,No,No,Yes,Telephone,Student,26601,2
+C100521,29,Female,1,Graduated,Divorced,Dammam,58244,Yes,No,No,Cellular,Businessman,33142,4
+C100522,65,Male,3,Uneducated,Divorced,Medina,63188,No,No,No,Unknown,Private Employee,32090,4
+C100523,49,Female,2,High School,Widow,Dammam,79459,Yes,Yes,Yes,Unknown,Self-employed,40249,2
+C100524,62,Female,3,Post-Graduate,Widow,Tabuk,94410,No,Yes,No,Cellular,Private Employee,10120,5
+C100525,61,Female,2,Post-Graduate,Widow,Riyadh,36137,Yes,No,Yes,Unknown,Private Employee,36914,4
+C100526,31,Female,0,Doctorate,Married,Taif,84369,Yes,No,Yes,Unknown,Private Employee,40687,2
+C100527,29,Female,2,Graduated,Married,Dammam,73790,No,Yes,Yes,Cellular,Businessman,4406,1
+C100528,23,Female,0,High School,Divorced,Medina,29739,Yes,No,Yes,Telephone,Student,23676,5
+C100529,48,Female,2,Doctorate,Married,Mecca,49746,Yes,Yes,Yes,Cellular,Private Employee,10762,5
+C100530,59,Female,1,Post-Graduate,Widow,Mecca,42688,Yes,Yes,No,Cellular,Unemployed,5580,2
+C100531,44,Female,3,Graduated,Married,Riyadh,86831,No,No,Yes,Telephone,Businessman,35228,5
+C100532,42,Female,0,High School,Single,Dammam,27687,No,No,Yes,Cellular,Unemployed,46837,2
+C100533,60,Female,2,Doctorate,Single,Tabuk,89011,No,Yes,No,Cellular,Government Employee,19561,2
+C100534,52,Female,4,Unknown,Widow,Tabuk,31873,Yes,Yes,No,Telephone,Private Employee,31373,3
+C100535,22,Female,3,Doctorate,Single,Tabuk,82256,Yes,Yes,Yes,Unknown,Student,4259,3
+C100536,44,Male,3,Graduated,Widow,Riyadh,98067,No,No,No,Telephone,Unemployed,36592,4
+C100537,46,Female,1,High School,Divorced,Abha,35284,No,No,No,Cellular,Private Employee,47027,1
+C100538,62,Female,4,Unknown,Single,Dammam,24031,Yes,Yes,Yes,Telephone,Businessman,13092,5
+C100539,35,Male,0,Unknown,Single,Tabuk,90931,Yes,Yes,No,Unknown,Unemployed,24685,1
+C100540,59,Male,0,Doctorate,Married,Medina,20637,Yes,Yes,Yes,Cellular,Private Employee,47931,2
+C100541,33,Male,0,Graduated,Divorced,Abha,35249,No,Yes,No,Unknown,Freelancer,15193,4
+C100542,38,Male,3,Uneducated,Single,Jeddah,33049,Yes,No,Yes,Unknown,Student,15408,1
+C100543,64,Male,1,Uneducated,Divorced,Medina,31289,No,No,No,Unknown,Freelancer,21704,2
+C100544,47,Female,2,Doctorate,Married,Abha,10915,No,No,Yes,Cellular,Businessman,7114,4
+C100545,42,Male,4,Graduated,Single,Jazan,11572,Yes,No,No,Unknown,Freelancer,42682,1
+C100546,56,Female,2,Graduated,Divorced,Jazan,58554,No,No,No,Telephone,Student,15470,2
+C100547,57,Male,0,Doctorate,Divorced,Taif,70941,No,No,No,Telephone,Unemployed,33434,4
+C100548,29,Male,3,Graduated,Single,Dammam,51513,No,Yes,No,Telephone,Businessman,31467,2
+C100549,29,Male,1,Unknown,Single,Taif,71903,Yes,No,No,Cellular,Businessman,35592,4
+C100550,30,Female,4,High School,Married,Medina,73771,No,No,No,Cellular,Private Employee,46633,1
+C100551,42,Male,0,High School,Widow,Mecca,28543,Yes,No,Yes,Telephone,Private Employee,3849,3
+C100552,60,Male,2,Doctorate,Divorced,Taif,90167,Yes,Yes,No,Telephone,Freelancer,27468,2
+C100553,43,Female,0,Unknown,Widow,Tabuk,64657,Yes,Yes,No,Unknown,Self-employed,23482,4
+C100554,37,Female,4,High School,Married,Dammam,52183,Yes,Yes,Yes,Telephone,Student,33785,1
+C100555,40,Male,3,Uneducated,Divorced,Jeddah,79367,No,No,No,Cellular,Private Employee,28531,2
+C100556,37,Male,2,Unknown,Widow,Medina,39272,Yes,No,No,Unknown,Private Employee,39823,2
+C100557,37,Female,3,High School,Married,Medina,88326,Yes,No,Yes,Unknown,Self-employed,37308,5
+C100558,38,Male,3,Graduated,Single,Mecca,44208,Yes,Yes,No,Cellular,Businessman,45705,4
+C100559,25,Female,3,Uneducated,Widow,Taif,82779,Yes,No,No,Cellular,Government Employee,32880,3
+C100560,32,Female,2,Uneducated,Married,Tabuk,12222,Yes,Yes,No,Unknown,Private Employee,27171,2
+C100561,40,Female,4,Unknown,Widow,Tabuk,61843,Yes,No,Yes,Unknown,Government Employee,24234,5
+C100562,56,Male,4,Unknown,Married,Jazan,18372,Yes,Yes,Yes,Cellular,Student,13707,2
+C100563,25,Female,2,High School,Single,Taif,55032,Yes,No,No,Unknown,Businessman,37385,4
+C100564,61,Female,1,Post-Graduate,Single,Medina,68785,Yes,Yes,No,Cellular,Self-employed,6703,5
+C100565,21,Male,1,Graduated,Single,Riyadh,38704,Yes,Yes,Yes,Unknown,Government Employee,24164,4
+C100566,60,Female,0,Post-Graduate,Divorced,Jazan,13081,No,Yes,Yes,Cellular,Student,5359,2
+C100567,34,Female,0,High School,Single,Tabuk,76735,Yes,No,Yes,Cellular,Student,3481,5
+C100568,38,Female,4,High School,Widow,Dammam,36422,No,No,Yes,Telephone,Government Employee,28731,1
+C100569,61,Female,3,Unknown,Widow,Abha,63174,Yes,Yes,Yes,Cellular,Private Employee,9994,2
+C100570,32,Female,1,Post-Graduate,Divorced,Tabuk,70788,Yes,Yes,No,Cellular,Student,4560,3
+C100571,20,Male,1,High School,Married,Jazan,60930,No,No,No,Unknown,Unemployed,13830,4
+C100572,50,Female,1,Unknown,Single,Riyadh,14089,Yes,Yes,No,Cellular,Government Employee,32167,4
+C100573,56,Male,0,Unknown,Divorced,Medina,94642,Yes,No,No,Cellular,Government Employee,30360,1
+C100574,39,Male,0,High School,Married,Mecca,69890,Yes,Yes,Yes,Telephone,Self-employed,3940,1
+C100575,25,Male,3,Post-Graduate,Divorced,Mecca,12956,No,Yes,Yes,Cellular,Businessman,29053,4
+C100576,21,Male,3,Graduated,Widow,Taif,32940,Yes,Yes,Yes,Telephone,Freelancer,21452,4
+C100577,32,Female,0,Doctorate,Divorced,Medina,40778,No,Yes,Yes,Unknown,Unemployed,31530,5
+C100578,64,Female,1,Doctorate,Single,Mecca,57714,Yes,No,No,Telephone,Student,13741,3
+C100579,62,Female,4,Post-Graduate,Married,Tabuk,93796,No,No,Yes,Unknown,Private Employee,27386,4
+C100580,42,Female,1,Doctorate,Widow,Abha,63454,No,No,Yes,Unknown,Government Employee,12020,3
+C100581,42,Female,3,Post-Graduate,Married,Riyadh,55017,Yes,No,Yes,Unknown,Self-employed,16488,4
+C100582,25,Female,0,Post-Graduate,Single,Abha,23607,Yes,No,Yes,Unknown,Self-employed,47827,3
+C100583,51,Male,2,Doctorate,Divorced,Abha,61768,No,Yes,No,Unknown,Private Employee,48075,1
+C100584,34,Female,1,Doctorate,Married,Riyadh,76127,Yes,No,Yes,Cellular,Freelancer,23090,2
+C100585,45,Female,1,Post-Graduate,Single,Medina,13080,Yes,Yes,No,Cellular,Self-employed,15170,1
+C100586,24,Female,3,Unknown,Widow,Tabuk,96715,No,Yes,No,Telephone,Private Employee,27570,2
+C100587,39,Female,4,Post-Graduate,Widow,Riyadh,99013,No,Yes,No,Telephone,Government Employee,5034,3
+C100588,64,Female,3,Post-Graduate,Single,Taif,86955,No,No,Yes,Telephone,Businessman,34945,1
+C100589,50,Female,4,Unknown,Single,Medina,92745,Yes,No,No,Unknown,Government Employee,18818,5
+C100590,50,Male,2,High School,Widow,Medina,90441,No,Yes,Yes,Unknown,Self-employed,41890,1
+C100591,52,Female,0,Post-Graduate,Married,Jazan,46010,No,Yes,No,Unknown,Businessman,48758,5
+C100592,51,Male,3,High School,Married,Riyadh,48048,No,No,Yes,Unknown,Self-employed,8034,2
+C100593,50,Female,1,Unknown,Widow,Dammam,59377,Yes,No,Yes,Cellular,Government Employee,47763,5
+C100594,51,Male,3,Doctorate,Single,Jeddah,31552,Yes,Yes,Yes,Telephone,Private Employee,27030,4
+C100595,21,Female,4,Unknown,Widow,Jazan,14395,No,No,No,Cellular,Businessman,8717,3
+C100596,62,Female,3,Graduated,Married,Dammam,25861,Yes,Yes,Yes,Unknown,Self-employed,46557,2
+C100597,48,Female,4,High School,Widow,Jeddah,96017,Yes,No,Yes,Unknown,Businessman,18220,2
+C100598,29,Female,1,Doctorate,Widow,Riyadh,58740,Yes,Yes,Yes,Unknown,Freelancer,20425,5
+C100599,53,Male,2,Uneducated,Divorced,Medina,72965,Yes,Yes,No,Telephone,Private Employee,17032,1
+C100600,31,Female,4,Doctorate,Single,Dammam,97435,Yes,Yes,Yes,Telephone,Student,7757,5
+C100601,30,Male,3,Doctorate,Divorced,Medina,44402,No,Yes,No,Cellular,Unemployed,24003,4
+C100602,21,Male,2,Graduated,Widow,Medina,26688,No,No,Yes,Cellular,Student,37161,3
+C100603,51,Male,3,Post-Graduate,Single,Taif,18694,Yes,Yes,Yes,Telephone,Government Employee,28773,3
+C100604,49,Female,2,Post-Graduate,Divorced,Mecca,71592,No,No,Yes,Telephone,Government Employee,8962,4
+C100605,41,Male,2,Doctorate,Divorced,Mecca,47872,Yes,No,No,Cellular,Student,15534,3
+C100606,39,Male,2,Post-Graduate,Widow,Mecca,44591,No,Yes,Yes,Unknown,Government Employee,15449,3
+C100607,65,Female,1,Graduated,Married,Jeddah,48202,Yes,Yes,No,Cellular,Freelancer,35568,3
+C100608,35,Female,3,Doctorate,Divorced,Jazan,80439,No,Yes,No,Unknown,Businessman,19550,1
+C100609,44,Female,0,Unknown,Married,Mecca,74887,No,No,No,Cellular,Government Employee,6341,4
+C100610,60,Female,4,Unknown,Widow,Taif,60709,No,Yes,Yes,Cellular,Businessman,26680,1
+C100611,22,Male,2,Unknown,Divorced,Dammam,22568,No,Yes,Yes,Unknown,Student,6924,1
+C100612,27,Female,4,Doctorate,Divorced,Mecca,66335,Yes,Yes,Yes,Unknown,Student,40395,3
+C100613,55,Female,1,Uneducated,Single,Abha,86561,No,Yes,Yes,Telephone,Self-employed,38501,5
+C100614,21,Male,0,Post-Graduate,Divorced,Jazan,26326,Yes,Yes,No,Cellular,Self-employed,33114,5
+C100615,30,Male,1,High School,Single,Riyadh,41296,No,No,No,Telephone,Self-employed,18216,1
+C100616,25,Female,3,Graduated,Married,Taif,90616,No,Yes,No,Cellular,Freelancer,35212,4
+C100617,53,Female,2,Unknown,Widow,Abha,90692,No,No,Yes,Telephone,Self-employed,49101,1
+C100618,58,Female,1,Graduated,Married,Medina,51184,No,No,No,Cellular,Freelancer,22049,2
+C100619,44,Female,0,Doctorate,Married,Jeddah,69276,Yes,No,No,Telephone,Private Employee,4343,4
+C100620,47,Female,3,Unknown,Widow,Mecca,55643,Yes,No,No,Telephone,Private Employee,13361,2
+C100621,34,Male,0,Graduated,Divorced,Riyadh,39960,Yes,Yes,Yes,Unknown,Freelancer,39229,1
+C100622,36,Male,4,High School,Widow,Dammam,48424,Yes,No,No,Cellular,Self-employed,29834,3
+C100623,30,Male,1,Unknown,Single,Dammam,47780,No,No,Yes,Cellular,Businessman,15804,5
+C100624,65,Male,0,Unknown,Divorced,Dammam,79986,Yes,No,No,Unknown,Self-employed,13008,5
+C100625,31,Male,0,High School,Married,Mecca,77272,Yes,Yes,No,Cellular,Self-employed,6168,4
+C100626,29,Male,1,Post-Graduate,Divorced,Mecca,70608,Yes,No,Yes,Unknown,Businessman,49755,2
+C100627,30,Male,0,Graduated,Married,Riyadh,47644,No,No,No,Unknown,Student,29469,5
+C100628,49,Female,4,Post-Graduate,Widow,Mecca,78612,No,Yes,No,Cellular,Unemployed,5386,2
+C100629,24,Female,2,Unknown,Widow,Taif,59275,No,No,Yes,Telephone,Private Employee,16022,1
+C100630,33,Female,1,Graduated,Married,Mecca,61951,Yes,Yes,Yes,Cellular,Private Employee,19575,4
+C100631,45,Female,3,High School,Married,Jazan,27093,No,Yes,Yes,Cellular,Freelancer,9637,3
+C100632,43,Male,2,Graduated,Widow,Taif,20239,No,No,No,Cellular,Unemployed,34421,1
+C100633,42,Female,1,High School,Married,Riyadh,23277,Yes,No,Yes,Cellular,Student,17332,5
+C100634,43,Male,3,Graduated,Divorced,Jazan,55472,No,No,No,Cellular,Unemployed,36881,5
+C100635,27,Female,3,Graduated,Single,Abha,84232,Yes,Yes,No,Telephone,Freelancer,49810,4
+C100636,60,Female,1,Uneducated,Married,Jeddah,90854,No,No,No,Cellular,Businessman,5884,3
+C100637,20,Male,1,Graduated,Married,Taif,29876,No,No,Yes,Cellular,Businessman,13708,1
+C100638,36,Female,0,Uneducated,Widow,Dammam,98160,No,Yes,Yes,Unknown,Private Employee,25461,5
+C100639,43,Female,2,Post-Graduate,Divorced,Tabuk,79036,Yes,No,Yes,Cellular,Unemployed,4456,4
+C100640,50,Female,2,Post-Graduate,Divorced,Jazan,63046,Yes,No,No,Cellular,Unemployed,12697,5
+C100641,34,Male,1,Graduated,Married,Jeddah,81068,No,No,No,Telephone,Student,24706,3
+C100642,25,Male,1,Post-Graduate,Widow,Jeddah,51150,Yes,No,No,Telephone,Self-employed,30146,4
+C100643,21,Female,2,Unknown,Divorced,Medina,73769,No,No,Yes,Telephone,Private Employee,18408,3
+C100644,35,Male,2,Uneducated,Divorced,Taif,20863,Yes,Yes,Yes,Unknown,Businessman,12833,5
+C100645,47,Female,0,Doctorate,Married,Riyadh,10273,No,Yes,Yes,Cellular,Government Employee,27036,3
+C100646,62,Male,0,Uneducated,Divorced,Tabuk,23103,Yes,Yes,Yes,Unknown,Businessman,15599,2
+C100647,45,Female,0,High School,Divorced,Abha,19395,No,Yes,Yes,Telephone,Student,20038,2
+C100648,61,Male,3,Post-Graduate,Married,Mecca,14198,No,No,Yes,Unknown,Private Employee,32655,3
+C100649,52,Female,2,Doctorate,Widow,Taif,40818,No,No,Yes,Cellular,Private Employee,12746,2
+C100650,22,Male,0,Post-Graduate,Single,Dammam,24113,No,Yes,Yes,Unknown,Businessman,21512,3
+C100651,64,Female,4,Uneducated,Widow,Taif,63723,Yes,No,Yes,Telephone,Freelancer,5217,3
+C100652,30,Female,1,High School,Single,Riyadh,14112,No,No,Yes,Telephone,Private Employee,46144,4
+C100653,65,Female,3,Uneducated,Divorced,Taif,96298,No,Yes,Yes,Cellular,Government Employee,30249,1
+C100654,51,Female,1,Unknown,Married,Medina,77211,No,No,Yes,Unknown,Self-employed,30385,1
+C100655,20,Female,2,Post-Graduate,Divorced,Tabuk,10358,Yes,No,Yes,Cellular,Self-employed,24791,5
+C100656,37,Female,4,Post-Graduate,Married,Taif,15167,No,No,No,Cellular,Government Employee,24797,1
+C100657,46,Male,3,Graduated,Widow,Medina,51311,Yes,No,No,Telephone,Freelancer,5536,2
+C100658,62,Female,3,High School,Single,Abha,40044,Yes,Yes,No,Cellular,Private Employee,3147,4
+C100659,23,Male,2,Post-Graduate,Widow,Riyadh,75765,No,Yes,No,Unknown,Self-employed,38002,5
+C100660,38,Male,1,Graduated,Divorced,Dammam,81442,Yes,Yes,No,Cellular,Government Employee,45391,2
+C100661,50,Male,0,Uneducated,Divorced,Dammam,96174,No,No,No,Cellular,Private Employee,16375,2
+C100662,43,Male,2,High School,Single,Jeddah,30390,Yes,Yes,Yes,Cellular,Unemployed,20698,2
+C100663,27,Female,2,Unknown,Widow,Abha,26003,No,No,Yes,Telephone,Unemployed,9031,3
+C100664,31,Female,1,Post-Graduate,Divorced,Riyadh,91309,Yes,Yes,Yes,Cellular,Government Employee,13508,5
+C100665,64,Male,3,Doctorate,Divorced,Riyadh,54588,No,No,Yes,Unknown,Unemployed,29375,2
+C100666,30,Male,4,Doctorate,Widow,Jeddah,39720,No,No,No,Telephone,Freelancer,27174,2
+C100667,22,Male,3,Uneducated,Single,Tabuk,12244,No,No,No,Unknown,Unemployed,3487,3
+C100668,49,Male,1,Unknown,Single,Dammam,72053,No,No,Yes,Unknown,Unemployed,5128,3
+C100669,35,Female,4,Graduated,Divorced,Riyadh,23968,Yes,No,Yes,Unknown,Government Employee,27876,2
+C100670,37,Female,3,Unknown,Divorced,Jeddah,75311,No,No,No,Cellular,Businessman,21687,3
+C100671,31,Male,1,Post-Graduate,Single,Tabuk,24860,Yes,No,No,Telephone,Businessman,14968,5
+C100672,33,Male,1,Unknown,Divorced,Mecca,82116,Yes,No,No,Cellular,Private Employee,5669,3
+C100673,46,Male,2,High School,Single,Dammam,19010,Yes,Yes,Yes,Telephone,Businessman,33751,3
+C100674,45,Male,2,Uneducated,Married,Jeddah,53786,Yes,Yes,Yes,Unknown,Unemployed,4103,4
+C100675,33,Male,1,Doctorate,Married,Taif,10692,No,Yes,No,Unknown,Self-employed,6890,4
+C100676,33,Female,1,Post-Graduate,Divorced,Tabuk,27853,No,No,No,Telephone,Self-employed,43395,1
+C100677,65,Female,2,Doctorate,Widow,Riyadh,25022,No,Yes,No,Unknown,Self-employed,40789,2
+C100678,61,Male,1,Uneducated,Single,Medina,42767,Yes,Yes,No,Cellular,Self-employed,21123,1
+C100679,56,Male,1,Doctorate,Single,Riyadh,64179,Yes,No,Yes,Telephone,Self-employed,12632,1
+C100680,43,Female,3,Graduated,Divorced,Jazan,96916,Yes,Yes,Yes,Telephone,Government Employee,15320,2
+C100681,51,Female,2,Graduated,Single,Mecca,10400,No,No,Yes,Cellular,Unemployed,6905,4
+C100682,53,Female,1,Graduated,Single,Mecca,28441,No,No,Yes,Telephone,Unemployed,3902,4
+C100683,53,Male,4,Graduated,Divorced,Mecca,94443,Yes,No,Yes,Unknown,Unemployed,21062,4
+C100684,44,Female,1,Graduated,Married,Jazan,27496,Yes,Yes,No,Telephone,Self-employed,39159,5
+C100685,61,Male,0,High School,Divorced,Abha,43398,Yes,No,No,Unknown,Private Employee,4330,1
+C100686,56,Male,1,High School,Divorced,Medina,97614,Yes,No,Yes,Cellular,Businessman,24454,5
+C100687,46,Female,0,Graduated,Married,Dammam,24216,No,No,No,Unknown,Unemployed,20821,5
+C100688,32,Female,4,Post-Graduate,Divorced,Jeddah,59797,No,Yes,Yes,Telephone,Businessman,25029,3
+C100689,50,Male,4,High School,Widow,Medina,66468,Yes,Yes,Yes,Unknown,Self-employed,18158,4
+C100690,22,Male,3,Graduated,Single,Jeddah,99254,No,Yes,Yes,Unknown,Self-employed,17317,3
+C100691,26,Male,2,Unknown,Widow,Jeddah,46754,No,Yes,Yes,Telephone,Self-employed,43093,1
+C100692,25,Female,4,Post-Graduate,Married,Riyadh,72391,No,Yes,Yes,Telephone,Unemployed,17179,4
+C100693,41,Male,0,Post-Graduate,Married,Mecca,10012,No,No,No,Telephone,Student,48609,2
+C100694,21,Male,4,Unknown,Divorced,Medina,32553,Yes,Yes,Yes,Unknown,Self-employed,15835,2
+C100695,32,Male,2,Graduated,Single,Jazan,39573,Yes,Yes,Yes,Unknown,Freelancer,16380,3
+C100696,60,Female,3,Uneducated,Single,Dammam,72092,No,Yes,Yes,Telephone,Businessman,37932,2
+C100697,63,Female,0,Unknown,Married,Medina,19596,Yes,No,Yes,Telephone,Self-employed,48854,2
+C100698,37,Female,3,Uneducated,Married,Jazan,65690,Yes,No,No,Telephone,Government Employee,42733,2
+C100699,21,Male,3,High School,Widow,Abha,70931,Yes,Yes,Yes,Cellular,Self-employed,48892,5
+C100700,27,Female,3,Doctorate,Married,Riyadh,77889,Yes,Yes,Yes,Cellular,Businessman,36319,5
+C100701,54,Male,1,Post-Graduate,Single,Tabuk,78822,Yes,No,No,Telephone,Student,11924,2
+C100702,22,Female,3,Uneducated,Married,Medina,93394,Yes,Yes,No,Cellular,Private Employee,44540,5
+C100703,25,Female,3,Uneducated,Divorced,Tabuk,13926,Yes,Yes,Yes,Unknown,Freelancer,4586,1
+C100704,25,Female,1,Doctorate,Single,Jeddah,34958,No,Yes,No,Unknown,Freelancer,27349,1
+C100705,60,Male,1,High School,Divorced,Taif,98103,Yes,No,No,Telephone,Self-employed,8573,5
+C100706,29,Female,2,Graduated,Single,Dammam,33032,No,Yes,No,Telephone,Private Employee,5646,5
+C100707,47,Female,0,Unknown,Single,Riyadh,96774,No,Yes,No,Telephone,Freelancer,25379,1
+C100708,43,Female,4,Uneducated,Widow,Taif,83793,Yes,Yes,No,Cellular,Unemployed,20656,5
+C100709,34,Female,2,Doctorate,Single,Tabuk,50648,Yes,No,Yes,Unknown,Freelancer,5580,4
+C100710,23,Female,1,Uneducated,Widow,Abha,70296,No,Yes,Yes,Cellular,Businessman,6978,3
+C100711,23,Male,3,High School,Single,Abha,79375,Yes,No,No,Unknown,Self-employed,38879,4
+C100712,51,Male,4,Uneducated,Widow,Medina,79248,Yes,No,No,Cellular,Self-employed,47105,1
+C100713,29,Female,4,Doctorate,Divorced,Dammam,78383,No,No,No,Cellular,Businessman,18906,4
+C100714,65,Male,2,Doctorate,Widow,Medina,23643,No,No,Yes,Telephone,Unemployed,5672,4
+C100715,38,Female,1,High School,Divorced,Mecca,15546,Yes,No,Yes,Unknown,Freelancer,27185,3
+C100716,54,Male,2,Uneducated,Single,Jeddah,71581,No,No,No,Telephone,Unemployed,22044,5
+C100717,56,Male,1,Doctorate,Single,Tabuk,41646,Yes,No,No,Unknown,Self-employed,33518,5
+C100718,64,Male,2,Unknown,Divorced,Riyadh,48191,Yes,Yes,Yes,Cellular,Unemployed,26269,2
+C100719,53,Female,4,High School,Single,Taif,39082,Yes,Yes,Yes,Cellular,Freelancer,42312,4
+C100720,53,Female,0,Post-Graduate,Single,Medina,41600,Yes,Yes,No,Cellular,Self-employed,29541,3
+C100721,34,Male,3,Unknown,Single,Jeddah,90199,No,No,No,Cellular,Private Employee,35812,4
+C100722,55,Male,0,Uneducated,Married,Riyadh,13853,Yes,No,No,Cellular,Student,11382,5
+C100723,53,Male,1,Doctorate,Widow,Tabuk,71901,No,No,No,Unknown,Businessman,30230,1
+C100724,59,Male,3,High School,Divorced,Dammam,17594,Yes,No,Yes,Cellular,Unemployed,37469,5
+C100725,38,Male,4,High School,Married,Medina,62035,No,No,Yes,Unknown,Self-employed,29691,2
+C100726,30,Male,1,Post-Graduate,Married,Jeddah,41475,No,No,No,Telephone,Private Employee,8029,1
+C100727,36,Male,2,Uneducated,Widow,Riyadh,58081,Yes,No,Yes,Telephone,Private Employee,31093,4
+C100728,22,Male,0,Doctorate,Married,Taif,12355,Yes,Yes,Yes,Unknown,Self-employed,26679,4
+C100729,45,Male,0,Graduated,Married,Jazan,19526,No,Yes,Yes,Cellular,Unemployed,17326,3
+C100730,41,Female,0,Graduated,Married,Taif,84978,Yes,No,No,Telephone,Unemployed,39790,2
+C100731,59,Male,4,High School,Divorced,Riyadh,25181,Yes,No,Yes,Unknown,Private Employee,15718,3
+C100732,39,Male,3,Doctorate,Married,Taif,16045,Yes,Yes,No,Unknown,Freelancer,11135,1
+C100733,26,Female,3,Doctorate,Single,Riyadh,76505,No,Yes,No,Telephone,Student,14913,1
+C100734,65,Female,2,Post-Graduate,Married,Taif,88361,No,No,No,Unknown,Freelancer,42627,5
+C100735,63,Female,0,Post-Graduate,Divorced,Dammam,80158,No,No,Yes,Cellular,Government Employee,40050,1
+C100736,38,Male,4,High School,Married,Dammam,34952,Yes,Yes,Yes,Telephone,Unemployed,12259,4
+C100737,45,Male,3,Post-Graduate,Single,Abha,71994,Yes,No,Yes,Telephone,Unemployed,30374,1
+C100738,61,Female,1,Doctorate,Married,Mecca,83617,Yes,Yes,No,Unknown,Freelancer,42478,3
+C100739,61,Male,4,Uneducated,Single,Mecca,10402,No,No,Yes,Cellular,Freelancer,40110,5
+C100740,47,Female,0,Post-Graduate,Married,Taif,87399,No,Yes,No,Unknown,Government Employee,9127,5
+C100741,44,Female,2,Graduated,Single,Medina,11957,No,No,Yes,Unknown,Unemployed,47936,2
+C100742,32,Female,4,High School,Single,Mecca,35171,No,No,Yes,Cellular,Student,23364,5
+C100743,37,Male,0,Uneducated,Widow,Medina,10128,Yes,No,No,Telephone,Businessman,6614,1
+C100744,44,Male,0,Unknown,Married,Tabuk,13340,Yes,Yes,No,Unknown,Businessman,43112,3
+C100745,25,Female,4,Unknown,Divorced,Riyadh,69393,No,Yes,Yes,Unknown,Private Employee,45078,4
+C100746,60,Male,0,Doctorate,Divorced,Medina,93558,No,No,Yes,Telephone,Private Employee,32012,5
+C100747,38,Female,1,Unknown,Widow,Dammam,62850,No,Yes,Yes,Telephone,Businessman,39402,1
+C100748,51,Female,3,Unknown,Married,Jeddah,44543,Yes,No,No,Cellular,Self-employed,16004,2
+C100749,49,Male,0,Uneducated,Divorced,Tabuk,32445,Yes,No,No,Cellular,Private Employee,38696,1
+C100750,49,Male,1,Uneducated,Single,Jeddah,89026,Yes,Yes,No,Cellular,Self-employed,30649,2
+C100751,52,Female,1,Graduated,Widow,Abha,85161,No,No,Yes,Cellular,Self-employed,32326,1
+C100752,62,Female,2,High School,Single,Dammam,85865,No,Yes,Yes,Telephone,Government Employee,36440,1
+C100753,26,Female,2,High School,Single,Medina,69210,Yes,No,Yes,Telephone,Private Employee,38008,1
+C100754,29,Female,3,Doctorate,Married,Dammam,19853,Yes,Yes,Yes,Telephone,Unemployed,41600,5
+C100755,31,Male,1,High School,Widow,Dammam,85041,No,No,No,Cellular,Unemployed,30919,2
+C100756,54,Male,0,Post-Graduate,Married,Abha,99329,No,No,Yes,Telephone,Self-employed,40514,4
+C100757,21,Female,4,Post-Graduate,Widow,Taif,99226,Yes,No,No,Unknown,Businessman,29388,4
+C100758,35,Female,4,Uneducated,Single,Tabuk,10295,No,Yes,Yes,Unknown,Unemployed,14202,2
+C100759,34,Female,2,Doctorate,Married,Jeddah,61558,No,Yes,No,Unknown,Private Employee,9874,3
+C100760,45,Male,0,Post-Graduate,Married,Jeddah,84792,Yes,No,No,Telephone,Unemployed,41939,1
+C100761,55,Female,1,Graduated,Divorced,Abha,12118,Yes,Yes,Yes,Telephone,Unemployed,5222,5
+C100762,64,Male,4,Graduated,Divorced,Abha,48255,Yes,No,No,Unknown,Student,36567,5
+C100763,60,Male,0,High School,Divorced,Jazan,92059,No,Yes,No,Cellular,Government Employee,14733,2
+C100764,54,Female,3,Graduated,Widow,Medina,80683,Yes,Yes,No,Telephone,Private Employee,8111,5
+C100765,24,Female,3,Post-Graduate,Widow,Taif,81037,Yes,No,No,Unknown,Unemployed,13086,2
+C100766,40,Male,3,Doctorate,Single,Abha,51714,Yes,No,Yes,Unknown,Freelancer,18563,3
+C100767,23,Female,0,Doctorate,Divorced,Taif,59930,No,No,Yes,Cellular,Freelancer,11180,2
+C100768,37,Male,2,High School,Divorced,Mecca,33927,No,No,No,Cellular,Self-employed,26135,5
+C100769,38,Male,1,Doctorate,Married,Abha,85504,No,No,Yes,Cellular,Student,40525,1
+C100770,41,Female,1,High School,Single,Tabuk,34458,No,No,Yes,Telephone,Private Employee,13989,5
+C100771,30,Female,4,Uneducated,Married,Tabuk,79434,No,Yes,Yes,Unknown,Businessman,39695,4
+C100772,43,Female,0,Doctorate,Widow,Abha,44452,No,No,Yes,Unknown,Government Employee,34966,3
+C100773,36,Male,0,Uneducated,Divorced,Jeddah,98529,Yes,Yes,No,Unknown,Private Employee,13801,1
+C100774,32,Female,4,Uneducated,Divorced,Riyadh,21273,No,Yes,No,Telephone,Businessman,24315,3
+C100775,49,Male,2,High School,Married,Jeddah,38389,Yes,No,Yes,Telephone,Private Employee,37375,1
+C100776,35,Female,3,High School,Single,Riyadh,91365,No,Yes,Yes,Telephone,Unemployed,8710,1
+C100777,42,Male,3,Graduated,Single,Abha,71982,Yes,Yes,No,Cellular,Government Employee,26657,2
+C100778,35,Female,3,Uneducated,Married,Tabuk,83060,No,No,Yes,Telephone,Unemployed,41244,5
+C100779,46,Female,4,Graduated,Divorced,Mecca,31966,Yes,No,No,Unknown,Government Employee,46864,3
+C100780,54,Female,4,Graduated,Divorced,Tabuk,90432,No,Yes,Yes,Telephone,Student,10776,1
+C100781,64,Female,2,Unknown,Married,Riyadh,15164,Yes,Yes,No,Telephone,Freelancer,18045,5
+C100782,61,Male,0,Uneducated,Married,Jeddah,52726,No,Yes,Yes,Cellular,Government Employee,25277,4
+C100783,22,Male,3,Post-Graduate,Married,Jeddah,47212,No,No,No,Telephone,Student,43629,4
+C100784,29,Female,1,Graduated,Widow,Jazan,48360,No,Yes,Yes,Cellular,Government Employee,36771,2
+C100785,43,Female,1,Unknown,Married,Dammam,81219,Yes,Yes,Yes,Cellular,Self-employed,16119,5
+C100786,29,Male,2,Post-Graduate,Single,Riyadh,59434,Yes,Yes,Yes,Telephone,Government Employee,35082,2
+C100787,33,Female,2,Unknown,Married,Jazan,62956,Yes,No,Yes,Cellular,Government Employee,34462,4
+C100788,40,Female,2,Post-Graduate,Divorced,Jazan,27782,No,Yes,Yes,Telephone,Self-employed,43541,1
+C100789,52,Female,3,Doctorate,Married,Jeddah,61445,Yes,Yes,No,Cellular,Freelancer,33721,2
+C100790,24,Female,1,Uneducated,Widow,Medina,83988,Yes,Yes,No,Cellular,Self-employed,13170,5
+C100791,56,Male,3,Uneducated,Single,Taif,52854,Yes,No,Yes,Unknown,Student,12428,2
+C100792,30,Female,2,Doctorate,Married,Abha,36632,No,No,No,Telephone,Businessman,35053,4
+C100793,51,Male,1,Graduated,Divorced,Medina,12563,No,No,No,Unknown,Unemployed,35644,5
+C100794,65,Male,1,Graduated,Widow,Riyadh,34483,Yes,No,Yes,Cellular,Businessman,24699,2
+C100795,62,Female,4,Graduated,Single,Medina,74268,No,Yes,Yes,Cellular,Self-employed,4840,1
+C100796,28,Female,3,Doctorate,Single,Abha,34699,Yes,Yes,Yes,Telephone,Unemployed,39320,4
+C100797,58,Female,4,Post-Graduate,Widow,Tabuk,99600,Yes,No,No,Cellular,Self-employed,44774,5
+C100798,45,Male,0,Uneducated,Single,Mecca,49597,Yes,No,Yes,Unknown,Unemployed,40607,3
+C100799,27,Female,0,High School,Married,Medina,84778,Yes,Yes,Yes,Unknown,Student,13975,5
+C100800,42,Male,0,High School,Married,Jazan,46331,Yes,Yes,Yes,Cellular,Student,30235,4
+C100801,25,Male,4,Graduated,Single,Jeddah,29029,No,Yes,Yes,Unknown,Self-employed,10573,2
+C100802,30,Male,3,Graduated,Widow,Dammam,17012,Yes,Yes,Yes,Cellular,Private Employee,29391,1
+C100803,28,Male,0,Unknown,Single,Jazan,27824,No,No,Yes,Cellular,Student,17030,1
+C100804,38,Male,3,Graduated,Divorced,Medina,80274,Yes,Yes,No,Unknown,Freelancer,22756,5
+C100805,26,Male,2,Uneducated,Single,Jeddah,47283,Yes,No,Yes,Telephone,Unemployed,3572,5
+C100806,62,Female,1,Uneducated,Divorced,Taif,26883,Yes,Yes,No,Telephone,Freelancer,27936,1
+C100807,61,Male,1,Doctorate,Divorced,Dammam,86475,No,Yes,Yes,Cellular,Private Employee,10775,2
+C100808,37,Male,3,High School,Divorced,Abha,58062,No,No,Yes,Cellular,Unemployed,4772,3
+C100809,24,Male,0,Uneducated,Widow,Riyadh,65372,Yes,No,Yes,Telephone,Self-employed,39538,4
+C100810,37,Male,1,Post-Graduate,Single,Jazan,21190,No,No,Yes,Telephone,Self-employed,11518,2
+C100811,38,Male,2,High School,Divorced,Dammam,99712,Yes,Yes,No,Cellular,Self-employed,6843,1
+C100812,21,Female,3,Graduated,Widow,Tabuk,65468,No,Yes,No,Telephone,Student,47372,3
+C100813,43,Female,3,Uneducated,Married,Mecca,72858,Yes,Yes,No,Telephone,Private Employee,3179,1
+C100814,22,Male,0,Post-Graduate,Single,Riyadh,37160,Yes,No,Yes,Cellular,Private Employee,29125,3
+C100815,25,Female,1,Graduated,Single,Abha,11720,Yes,No,No,Cellular,Self-employed,41846,1
+C100816,26,Female,0,Graduated,Single,Medina,76632,Yes,No,No,Cellular,Self-employed,6531,4
+C100817,65,Male,2,Unknown,Single,Mecca,57332,No,No,No,Cellular,Unemployed,29254,2
+C100818,27,Male,0,Unknown,Widow,Dammam,55735,No,No,No,Unknown,Private Employee,42069,3
+C100819,51,Male,1,Unknown,Single,Tabuk,36078,Yes,No,Yes,Telephone,Government Employee,31670,4
+C100820,47,Male,0,High School,Single,Abha,41529,Yes,No,Yes,Cellular,Businessman,20432,4
+C100821,46,Female,0,High School,Divorced,Riyadh,18888,Yes,Yes,No,Unknown,Private Employee,46682,4
+C100822,27,Female,0,Unknown,Divorced,Medina,81287,Yes,No,Yes,Telephone,Self-employed,46759,1
+C100823,40,Male,0,High School,Single,Mecca,94749,No,No,No,Unknown,Self-employed,45469,1
+C100824,32,Female,4,Graduated,Single,Taif,60098,No,Yes,No,Telephone,Businessman,12728,2
+C100825,51,Female,0,Graduated,Widow,Mecca,42537,Yes,Yes,No,Telephone,Self-employed,16823,5
+C100826,62,Female,4,Post-Graduate,Single,Jazan,11921,Yes,No,Yes,Telephone,Unemployed,46274,2
+C100827,21,Male,3,Unknown,Widow,Abha,32482,Yes,Yes,No,Cellular,Unemployed,13378,1
+C100828,60,Female,0,Post-Graduate,Single,Medina,58414,No,Yes,Yes,Cellular,Private Employee,4468,5
+C100829,52,Female,4,Unknown,Single,Abha,62297,No,No,Yes,Cellular,Unemployed,10880,4
+C100830,42,Male,4,Graduated,Divorced,Jazan,11511,Yes,Yes,Yes,Telephone,Student,6068,4
+C100831,50,Female,3,Doctorate,Single,Dammam,34761,No,Yes,No,Unknown,Private Employee,8996,1
+C100832,30,Female,4,High School,Married,Taif,83359,Yes,No,No,Unknown,Freelancer,34269,1
+C100833,37,Male,4,High School,Married,Jeddah,43901,Yes,No,Yes,Telephone,Private Employee,5884,4
+C100834,55,Male,1,Graduated,Divorced,Abha,83162,Yes,No,No,Telephone,Businessman,33162,5
+C100835,62,Female,1,High School,Single,Taif,93840,No,No,No,Unknown,Self-employed,20355,5
+C100836,47,Male,2,Graduated,Divorced,Dammam,18488,No,Yes,Yes,Unknown,Government Employee,9698,4
+C100837,29,Male,2,Post-Graduate,Married,Taif,46073,Yes,Yes,Yes,Telephone,Student,29222,5
+C100838,64,Male,4,Unknown,Widow,Dammam,43886,No,No,Yes,Unknown,Private Employee,42448,5
+C100839,24,Female,0,Post-Graduate,Single,Jeddah,49308,Yes,Yes,Yes,Unknown,Unemployed,19271,3
+C100840,62,Male,1,Doctorate,Widow,Jeddah,40493,Yes,No,No,Cellular,Government Employee,15227,2
+C100841,22,Female,2,Post-Graduate,Single,Taif,53574,Yes,Yes,No,Telephone,Unemployed,22797,4
+C100842,29,Female,0,Post-Graduate,Single,Taif,51665,Yes,Yes,No,Telephone,Businessman,40173,4
+C100843,45,Male,3,Doctorate,Widow,Jeddah,77605,Yes,No,Yes,Unknown,Student,3186,4
+C100844,49,Male,0,High School,Single,Jazan,45503,No,Yes,Yes,Telephone,Student,15105,4
+C100845,60,Female,2,Post-Graduate,Widow,Abha,90924,Yes,No,No,Telephone,Student,27979,5
+C100846,39,Male,2,High School,Divorced,Tabuk,96495,Yes,Yes,Yes,Unknown,Self-employed,42263,2
+C100847,23,Female,2,Uneducated,Widow,Riyadh,56040,Yes,Yes,No,Cellular,Private Employee,47745,1
+C100848,34,Female,1,Graduated,Divorced,Medina,63843,Yes,Yes,No,Telephone,Government Employee,42288,1
+C100849,44,Female,0,Unknown,Single,Mecca,27810,No,No,Yes,Cellular,Government Employee,27663,4
+C100850,63,Female,4,Post-Graduate,Widow,Taif,75208,No,Yes,No,Telephone,Government Employee,13605,1
+C100851,39,Female,3,High School,Widow,Jazan,54553,Yes,No,No,Telephone,Self-employed,15601,5
+C100852,58,Male,3,Uneducated,Married,Tabuk,43828,No,No,Yes,Unknown,Self-employed,30442,3
+C100853,64,Female,0,Unknown,Widow,Tabuk,89121,No,Yes,Yes,Cellular,Freelancer,47254,4
+C100854,30,Male,0,Uneducated,Married,Mecca,33729,No,No,No,Unknown,Freelancer,34060,3
+C100855,45,Male,2,Post-Graduate,Single,Taif,13637,Yes,Yes,Yes,Telephone,Freelancer,9548,1
+C100856,43,Female,4,Post-Graduate,Widow,Riyadh,10802,Yes,Yes,No,Unknown,Student,28957,4
+C100857,65,Female,4,Uneducated,Married,Jeddah,32660,No,No,Yes,Telephone,Private Employee,11841,4
+C100858,36,Male,3,Unknown,Married,Jeddah,31577,Yes,Yes,No,Cellular,Freelancer,34373,3
+C100859,34,Female,2,Doctorate,Widow,Abha,16303,No,No,Yes,Telephone,Government Employee,36689,2
+C100860,39,Male,0,Doctorate,Married,Abha,52506,No,No,No,Cellular,Businessman,47290,4
+C100861,36,Female,2,High School,Widow,Tabuk,29089,Yes,Yes,Yes,Cellular,Self-employed,13103,4
+C100862,38,Female,4,Doctorate,Single,Jazan,67460,No,Yes,Yes,Unknown,Government Employee,45274,2
+C100863,51,Male,0,Uneducated,Widow,Dammam,19538,No,No,Yes,Unknown,Student,6983,1
+C100864,58,Female,1,Unknown,Divorced,Tabuk,93275,Yes,Yes,No,Unknown,Unemployed,18043,3
+C100865,54,Male,2,Post-Graduate,Married,Tabuk,40083,No,Yes,Yes,Unknown,Unemployed,44574,1
+C100866,52,Male,3,Graduated,Widow,Abha,47565,Yes,No,No,Cellular,Government Employee,19652,3
+C100867,62,Female,2,High School,Widow,Riyadh,79695,Yes,No,Yes,Telephone,Student,43602,2
+C100868,48,Male,0,Doctorate,Divorced,Medina,94364,Yes,Yes,No,Unknown,Student,46323,3
+C100869,54,Female,4,Post-Graduate,Widow,Abha,77435,Yes,Yes,No,Telephone,Private Employee,40930,2
+C100870,50,Male,2,Graduated,Married,Mecca,59393,Yes,Yes,Yes,Unknown,Student,38418,4
+C100871,65,Female,1,High School,Married,Medina,82973,Yes,No,Yes,Unknown,Self-employed,18615,5
+C100872,26,Male,0,Doctorate,Widow,Riyadh,61366,Yes,Yes,Yes,Unknown,Unemployed,36730,1
+C100873,65,Male,1,Uneducated,Single,Riyadh,25331,Yes,Yes,Yes,Cellular,Businessman,4066,1
+C100874,64,Female,3,Graduated,Widow,Jeddah,15938,Yes,No,No,Cellular,Businessman,38896,1
+C100875,38,Male,2,Graduated,Single,Mecca,18088,Yes,No,No,Unknown,Self-employed,45018,1
+C100876,57,Male,3,High School,Widow,Abha,94084,Yes,Yes,No,Telephone,Private Employee,41581,3
+C100877,63,Male,0,Unknown,Married,Riyadh,69905,No,Yes,Yes,Telephone,Unemployed,21281,3
+C100878,57,Female,3,Unknown,Divorced,Riyadh,16039,No,No,No,Telephone,Government Employee,9031,1
+C100879,20,Female,2,High School,Single,Jeddah,39464,No,Yes,No,Unknown,Government Employee,9591,4
+C100880,59,Female,4,Graduated,Single,Abha,90632,Yes,No,Yes,Telephone,Private Employee,38929,2
+C100881,38,Male,3,Post-Graduate,Widow,Dammam,60910,No,Yes,Yes,Unknown,Private Employee,39571,5
+C100882,53,Male,3,Post-Graduate,Widow,Jeddah,57721,Yes,No,No,Cellular,Government Employee,32722,1
+C100883,56,Female,3,Unknown,Married,Dammam,12919,Yes,Yes,No,Unknown,Unemployed,26495,4
+C100884,60,Male,3,Unknown,Divorced,Jeddah,82521,Yes,No,Yes,Cellular,Unemployed,33211,3
+C100885,41,Female,0,Graduated,Widow,Jazan,48114,Yes,Yes,No,Telephone,Private Employee,42460,2
+C100886,24,Male,4,Doctorate,Married,Mecca,22045,No,Yes,No,Telephone,Self-employed,13663,2
+C100887,58,Female,2,Post-Graduate,Single,Jazan,16998,No,No,No,Cellular,Businessman,39277,3
+C100888,63,Female,2,Graduated,Single,Tabuk,67031,Yes,Yes,Yes,Cellular,Unemployed,27062,4
+C100889,20,Male,0,Unknown,Widow,Medina,54849,No,No,Yes,Telephone,Self-employed,16845,2
+C100890,37,Female,1,Post-Graduate,Married,Abha,90088,No,No,Yes,Cellular,Businessman,34816,5
+C100891,61,Male,1,Doctorate,Divorced,Jazan,41505,Yes,Yes,No,Cellular,Private Employee,38536,3
+C100892,20,Female,0,Unknown,Divorced,Abha,94080,Yes,Yes,Yes,Unknown,Government Employee,3067,5
+C100893,31,Female,0,Doctorate,Single,Tabuk,34370,No,Yes,Yes,Unknown,Government Employee,17903,4
+C100894,23,Male,1,Unknown,Single,Jazan,19290,No,No,Yes,Cellular,Private Employee,19805,1
+C100895,52,Female,4,Doctorate,Divorced,Mecca,39753,Yes,No,No,Unknown,Student,40557,2
+C100896,46,Female,1,Post-Graduate,Divorced,Mecca,71894,Yes,No,Yes,Unknown,Unemployed,36729,2
+C100897,50,Male,2,Post-Graduate,Single,Medina,19269,Yes,No,No,Cellular,Self-employed,26055,5
+C100898,62,Female,1,Doctorate,Married,Jeddah,71377,No,Yes,No,Telephone,Government Employee,37342,2
+C100899,41,Male,3,Post-Graduate,Single,Taif,45783,No,Yes,No,Telephone,Self-employed,41553,5
+C100900,34,Female,2,Post-Graduate,Married,Abha,49798,Yes,No,Yes,Telephone,Unemployed,44328,3
+C100901,45,Male,4,Unknown,Divorced,Tabuk,16956,No,No,No,Unknown,Businessman,28786,3
+C100902,48,Female,2,Unknown,Divorced,Taif,30900,Yes,Yes,Yes,Unknown,Businessman,38444,3
+C100903,40,Male,0,Graduated,Divorced,Riyadh,97304,Yes,Yes,Yes,Cellular,Businessman,33323,5
+C100904,44,Male,4,Doctorate,Single,Dammam,53061,No,No,No,Cellular,Freelancer,49051,2
+C100905,30,Male,3,Doctorate,Divorced,Medina,51304,No,Yes,Yes,Cellular,Businessman,46703,2
+C100906,31,Female,2,Post-Graduate,Divorced,Riyadh,11386,Yes,No,Yes,Cellular,Government Employee,10274,3
+C100907,33,Male,2,Doctorate,Divorced,Jazan,93062,No,Yes,No,Telephone,Businessman,35264,1
+C100908,48,Male,1,Graduated,Single,Tabuk,87317,No,Yes,Yes,Unknown,Unemployed,7309,1
+C100909,20,Female,2,Doctorate,Married,Mecca,11599,Yes,Yes,Yes,Telephone,Government Employee,11261,1
+C100910,33,Female,0,Post-Graduate,Divorced,Jeddah,19438,No,Yes,Yes,Unknown,Government Employee,43329,5
+C100911,31,Female,2,Uneducated,Divorced,Tabuk,29203,Yes,No,No,Cellular,Businessman,6887,4
+C100912,51,Male,0,Graduated,Widow,Abha,17705,Yes,No,No,Telephone,Government Employee,5889,2
+C100913,50,Female,1,Doctorate,Married,Medina,84747,No,No,No,Cellular,Businessman,3182,4
+C100914,51,Female,3,Uneducated,Divorced,Tabuk,11055,Yes,Yes,No,Cellular,Businessman,35324,2
+C100915,44,Female,2,Uneducated,Widow,Dammam,47469,Yes,No,No,Cellular,Student,7007,2
+C100916,62,Male,1,Uneducated,Divorced,Tabuk,22484,Yes,Yes,Yes,Unknown,Businessman,45149,4
+C100917,63,Male,2,Uneducated,Single,Abha,82847,No,No,Yes,Cellular,Self-employed,10644,1
+C100918,44,Female,3,Uneducated,Married,Riyadh,46908,No,No,No,Unknown,Student,38588,4
+C100919,40,Male,0,Uneducated,Widow,Mecca,31952,No,Yes,Yes,Cellular,Private Employee,46977,2
+C100920,20,Male,3,High School,Divorced,Abha,34449,Yes,No,No,Telephone,Businessman,48541,5
+C100921,28,Male,3,Unknown,Single,Tabuk,31247,Yes,Yes,Yes,Cellular,Private Employee,48902,2
+C100922,26,Male,0,High School,Single,Abha,85084,No,Yes,No,Unknown,Businessman,31425,1
+C100923,27,Female,1,Post-Graduate,Divorced,Tabuk,82120,Yes,No,No,Unknown,Private Employee,13975,1
+C100924,44,Male,0,High School,Married,Jazan,80120,Yes,Yes,No,Unknown,Self-employed,36326,5
+C100925,50,Male,4,High School,Divorced,Mecca,17001,Yes,Yes,Yes,Unknown,Unemployed,34245,2
+C100926,20,Male,1,Post-Graduate,Married,Mecca,80340,Yes,Yes,Yes,Unknown,Self-employed,6877,3
+C100927,25,Female,2,Graduated,Divorced,Medina,27259,Yes,Yes,No,Telephone,Student,42481,2
+C100928,64,Male,1,Doctorate,Single,Dammam,14733,Yes,Yes,No,Unknown,Freelancer,12782,2
+C100929,28,Male,3,Graduated,Divorced,Dammam,23531,Yes,No,Yes,Cellular,Unemployed,11561,5
+C100930,25,Female,2,Unknown,Widow,Mecca,61887,Yes,Yes,Yes,Telephone,Freelancer,41985,2
+C100931,48,Female,3,High School,Widow,Jeddah,90098,Yes,Yes,Yes,Unknown,Businessman,45713,2
+C100932,58,Male,3,Doctorate,Single,Jazan,49129,No,Yes,Yes,Unknown,Freelancer,37792,2
+C100933,27,Male,2,Uneducated,Divorced,Jeddah,91276,No,No,Yes,Cellular,Student,8318,2
+C100934,27,Female,3,Unknown,Single,Tabuk,63197,No,No,No,Telephone,Unemployed,5659,4
+C100935,34,Female,1,Unknown,Widow,Tabuk,57404,Yes,No,No,Telephone,Government Employee,45993,1
+C100936,48,Female,3,Uneducated,Divorced,Medina,39454,No,No,Yes,Telephone,Freelancer,42617,4
+C100937,30,Female,1,Uneducated,Married,Taif,27654,No,Yes,Yes,Telephone,Self-employed,19759,2
+C100938,46,Male,2,Doctorate,Divorced,Mecca,98277,Yes,Yes,Yes,Unknown,Freelancer,35308,5
+C100939,63,Male,4,Graduated,Married,Medina,50781,Yes,No,No,Cellular,Self-employed,39680,3
+C100940,35,Male,2,Graduated,Married,Tabuk,97387,Yes,No,Yes,Cellular,Self-employed,20087,2
+C100941,22,Male,0,Unknown,Divorced,Abha,75471,No,Yes,No,Unknown,Government Employee,27234,4
+C100942,44,Female,3,High School,Widow,Taif,86916,No,No,Yes,Telephone,Self-employed,31612,3
+C100943,56,Female,2,Graduated,Widow,Abha,60109,Yes,No,Yes,Telephone,Self-employed,8182,2
+C100944,41,Female,2,Unknown,Single,Tabuk,91045,No,Yes,No,Cellular,Unemployed,29155,5
+C100945,29,Female,2,Post-Graduate,Widow,Taif,49595,No,Yes,Yes,Cellular,Businessman,32700,3
+C100946,28,Male,2,Doctorate,Single,Mecca,33801,No,Yes,No,Cellular,Freelancer,20352,5
+C100947,57,Male,1,Uneducated,Widow,Jeddah,49452,No,No,Yes,Unknown,Unemployed,6659,4
+C100948,56,Female,1,Doctorate,Widow,Medina,23664,Yes,Yes,Yes,Telephone,Student,26348,2
+C100949,29,Male,0,High School,Widow,Jeddah,83004,No,No,Yes,Cellular,Government Employee,46118,3
+C100950,31,Female,4,Graduated,Divorced,Mecca,99165,No,Yes,Yes,Telephone,Self-employed,45127,2
+C100951,61,Male,4,Graduated,Divorced,Dammam,39171,No,No,No,Cellular,Student,31178,4
+C100952,63,Female,3,Uneducated,Married,Jazan,10446,Yes,No,Yes,Unknown,Unemployed,6056,3
+C100953,29,Female,4,Unknown,Single,Tabuk,52661,Yes,Yes,Yes,Cellular,Private Employee,47722,2
+C100954,28,Male,2,Uneducated,Divorced,Jazan,96844,Yes,Yes,No,Cellular,Student,22734,2
+C100955,56,Male,1,Graduated,Single,Jazan,31558,Yes,Yes,Yes,Cellular,Private Employee,43791,3
+C100956,42,Male,4,Graduated,Married,Riyadh,88765,Yes,No,Yes,Telephone,Self-employed,27479,5
+C100957,42,Male,1,Uneducated,Married,Dammam,93877,No,Yes,Yes,Unknown,Student,42840,2
+C100958,20,Female,2,Graduated,Married,Tabuk,39556,Yes,Yes,No,Telephone,Businessman,36244,3
+C100959,22,Female,3,Unknown,Single,Abha,70177,Yes,Yes,No,Unknown,Private Employee,10916,5
+C100960,30,Male,3,Unknown,Single,Riyadh,74407,Yes,Yes,No,Cellular,Government Employee,45258,5
+C100961,34,Male,0,Graduated,Widow,Mecca,80009,No,No,No,Cellular,Government Employee,32007,3
+C100962,28,Male,1,Uneducated,Married,Dammam,31153,Yes,Yes,No,Telephone,Self-employed,25682,5
+C100963,62,Male,1,Uneducated,Divorced,Taif,17492,No,Yes,No,Cellular,Government Employee,45997,1
+C100964,44,Male,3,Uneducated,Single,Jeddah,79674,Yes,No,No,Unknown,Unemployed,35229,3
+C100965,26,Male,0,Graduated,Divorced,Medina,83254,No,Yes,No,Cellular,Businessman,46253,1
+C100966,34,Female,1,Graduated,Single,Abha,47594,No,Yes,No,Unknown,Government Employee,28304,1
+C100967,40,Female,3,Unknown,Divorced,Tabuk,42955,Yes,Yes,Yes,Telephone,Businessman,31057,3
+C100968,24,Male,4,Doctorate,Divorced,Tabuk,66133,No,Yes,Yes,Unknown,Freelancer,27639,5
+C100969,33,Female,3,Post-Graduate,Widow,Tabuk,34230,Yes,No,Yes,Cellular,Businessman,19621,2
+C100970,47,Male,0,Unknown,Widow,Jeddah,27819,Yes,Yes,No,Cellular,Self-employed,40458,2
+C100971,65,Female,4,Graduated,Widow,Abha,84256,No,No,Yes,Unknown,Student,34101,2
+C100972,24,Male,3,Graduated,Widow,Medina,20473,Yes,Yes,No,Unknown,Private Employee,47233,1
+C100973,49,Female,4,Post-Graduate,Widow,Abha,65096,No,Yes,Yes,Unknown,Freelancer,40464,3
+C100974,32,Male,4,Unknown,Widow,Tabuk,50470,Yes,Yes,No,Cellular,Self-employed,11171,2
+C100975,22,Male,0,Post-Graduate,Single,Tabuk,13082,No,No,No,Telephone,Government Employee,39899,4
+C100976,38,Female,0,Doctorate,Single,Riyadh,28386,No,No,No,Telephone,Government Employee,38701,4
+C100977,51,Female,2,Post-Graduate,Widow,Jazan,50568,Yes,No,Yes,Telephone,Government Employee,30959,1
+C100978,36,Female,0,Unknown,Widow,Medina,56268,No,Yes,No,Cellular,Businessman,41591,4
+C100979,37,Female,4,Uneducated,Widow,Jazan,20364,Yes,No,Yes,Unknown,Freelancer,27913,2
+C100980,40,Male,0,Doctorate,Divorced,Jazan,11042,Yes,No,No,Cellular,Self-employed,37669,2
+C100981,49,Female,1,Graduated,Divorced,Medina,20271,No,No,No,Unknown,Private Employee,25851,3
+C100982,46,Female,1,High School,Divorced,Mecca,48293,Yes,No,No,Cellular,Unemployed,23011,5
+C100983,27,Female,4,Post-Graduate,Married,Medina,43879,No,No,No,Cellular,Student,20671,4
+C100984,36,Male,4,Doctorate,Married,Dammam,39429,Yes,No,No,Cellular,Student,34262,2
+C100985,56,Female,0,Uneducated,Married,Jeddah,11045,No,Yes,Yes,Unknown,Self-employed,10546,4
+C100986,22,Female,2,High School,Divorced,Medina,47626,No,No,No,Telephone,Unemployed,41378,2
+C100987,28,Male,1,Unknown,Single,Mecca,46456,No,No,No,Cellular,Self-employed,43038,2
+C100988,56,Male,0,Uneducated,Divorced,Jeddah,27873,Yes,Yes,No,Telephone,Unemployed,28787,3
+C100989,53,Female,1,High School,Divorced,Jazan,10303,No,Yes,Yes,Cellular,Government Employee,49256,3
+C100990,55,Female,1,High School,Divorced,Taif,60841,Yes,Yes,Yes,Cellular,Student,39092,3
+C100991,23,Male,2,Uneducated,Married,Taif,30653,Yes,Yes,Yes,Cellular,Government Employee,32983,3
+C100992,31,Female,3,Uneducated,Single,Riyadh,49486,Yes,No,No,Unknown,Freelancer,48426,4
+C100993,54,Male,0,Post-Graduate,Divorced,Dammam,84590,No,No,Yes,Cellular,Unemployed,45848,1
+C100994,61,Female,3,High School,Single,Jazan,44536,Yes,Yes,No,Cellular,Unemployed,23875,1
+C100995,29,Male,4,High School,Single,Dammam,31231,No,No,No,Telephone,Self-employed,32389,3
+C100996,30,Male,1,Uneducated,Married,Medina,11221,Yes,Yes,Yes,Telephone,Private Employee,40592,1
+C100997,33,Male,0,Uneducated,Single,Medina,35856,No,No,No,Telephone,Businessman,48367,1
+C100998,62,Female,3,High School,Single,Jazan,65950,Yes,No,No,Telephone,Self-employed,6713,2
+C100999,37,Female,1,Unknown,Single,Dammam,40255,No,No,Yes,Cellular,Businessman,17207,3
+C101000,65,Male,0,Uneducated,Divorced,Jazan,18926,Yes,Yes,No,Unknown,Self-employed,13709,2
